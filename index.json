@@ -29017,13 +29017,13 @@
         "name": "Fenix Project",
         "packageName": "eu.kanade.tachiyomi.extension.pt.fenixproject",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/00276ef-2/tachiyomi-pt.fenixproject-v1.6.60.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f0c2d33/tachiyomi-pt.fenixproject-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/fenixproject/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/00276ef-2/tachiyomi-pt.fenixproject-v1.6.60.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f0c2d33/tachiyomi-pt.fenixproject-v1.6.61.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106060",
-        "versionName": "1.6.60",
+        "versionCode": "106061",
+        "versionName": "1.6.61",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -29206,13 +29206,13 @@
         "name": "Hentai Fusion",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hentaifusion",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/00276ef-2/tachiyomi-pt.hentaifusion-v1.6.1.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f0c2d33/tachiyomi-pt.hentaifusion-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/hentaifusion/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/00276ef-2/tachiyomi-pt.hentaifusion-v1.6.1.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f0c2d33/tachiyomi-pt.hentaifusion-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -29311,13 +29311,13 @@
         "name": "Hentaiteca.net",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hentaitecanet",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/00276ef-2/tachiyomi-pt.hentaitecanet-v1.6.0.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f0c2d33/tachiyomi-pt.hentaitecanet-v1.6.117.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/hentaitecanet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/00276ef-2/tachiyomi-pt.hentaitecanet-v1.6.0.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f0c2d33/tachiyomi-pt.hentaitecanet-v1.6.117.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106117",
+        "versionName": "1.6.117",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -30403,13 +30403,13 @@
         "name": "Nexus Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.nexusmangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/00276ef-3/tachiyomi-pt.nexusmangas-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f0c2d33/tachiyomi-pt.nexusmangas-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/nexusmangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/00276ef-3/tachiyomi-pt.nexusmangas-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f0c2d33/tachiyomi-pt.nexusmangas-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30697,13 +30697,13 @@
         "name": "Loobyt",
         "packageName": "eu.kanade.tachiyomi.extension.pt.remangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/00276ef-3/tachiyomi-pt.remangas-v1.6.56.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f0c2d33/tachiyomi-pt.remangas-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/remangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/00276ef-3/tachiyomi-pt.remangas-v1.6.56.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f0c2d33/tachiyomi-pt.remangas-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106056",
-        "versionName": "1.6.56",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
