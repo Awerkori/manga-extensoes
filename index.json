@@ -28187,13 +28187,13 @@
         "name": "AnimeXNovel",
         "packageName": "eu.kanade.tachiyomi.extension.pt.animexnovel",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f827e0a-2/tachiyomi-pt.animexnovel-v1.6.20.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/9f57026/tachiyomi-pt.animexnovel-v1.6.21.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/animexnovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f827e0a-2/tachiyomi-pt.animexnovel-v1.6.20.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/9f57026/tachiyomi-pt.animexnovel-v1.6.21.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106020",
-        "versionName": "1.6.20",
+        "versionCode": "106021",
+        "versionName": "1.6.21",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

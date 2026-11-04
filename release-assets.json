@@ -10371,12 +10371,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.animexnovel": {
     "apk": {
-      "name": "tachiyomi-pt.animexnovel-v1.6.20.apk",
-      "sha256": "dc1b3fea18f9c996bb187b974543d4579e053290157554f37a9ee4608f322230"
+      "name": "tachiyomi-pt.animexnovel-v1.6.21.apk",
+      "sha256": "550547e698de1a78e1cd19df43cfe3a2cd5badca4026985208b4ca3fc7a692f3"
     },
     "jar": {
-      "name": "tachiyomi-pt.animexnovel-v1.6.20.jar",
-      "sha256": "56a1b7a7730033d9238acb84ff58c9453461525abce2e7ea3fbcffcde0724eb9"
+      "name": "tachiyomi-pt.animexnovel-v1.6.21.jar",
+      "sha256": "f8b442790a34297b7cd669dd67846059c84f7480d12526dd01c880c2d4d19150"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.animy": {
