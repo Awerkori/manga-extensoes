@@ -10381,12 +10381,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.animy": {
     "apk": {
-      "name": "tachiyomi-pt.animy-v1.6.1.apk",
-      "sha256": "016d403d0854d2b161379721493370ebe2ba326a75f79b541d5e31abdb193de7"
+      "name": "tachiyomi-pt.animy-v1.6.2.apk",
+      "sha256": "1ba9d71d2a3f76fa9baa9cc95f70875724c395fd1505fe9f0f5cc2446ecf1449"
     },
     "jar": {
-      "name": "tachiyomi-pt.animy-v1.6.1.jar",
-      "sha256": "782eb8d943383b18e74ad60de8c48902bfa0ce5d76d5daacbff1c064012d0c93"
+      "name": "tachiyomi-pt.animy-v1.6.2.jar",
+      "sha256": "00b1be978bf7d16fbb9c54596113927239e813861399df3be418ae6b59eceefb"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.apecomics": {
@@ -10411,12 +10411,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.argoscomics": {
     "apk": {
-      "name": "tachiyomi-pt.argoscomics-v1.6.64.apk",
-      "sha256": "391c8429367458ef0e0c6aca22096e144552140d4a90c95027711a4f590a7718"
+      "name": "tachiyomi-pt.argoscomics-v1.6.65.apk",
+      "sha256": "6099720876aa9f7774bab7153b8eede06c2f41062b8376fb22036f75faf66cbd"
     },
     "jar": {
-      "name": "tachiyomi-pt.argoscomics-v1.6.64.jar",
-      "sha256": "4358dbc7a2127d184bdd58f87d95dd07e67df81a0a9a74a7aacf27d211649808"
+      "name": "tachiyomi-pt.argoscomics-v1.6.65.jar",
+      "sha256": "afc5f11e0e1a161c694c11dff18203b67b9e96a5851b52e8595d71dd6538dd60"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.argosscan": {

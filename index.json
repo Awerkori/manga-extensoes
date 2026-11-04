@@ -28208,13 +28208,13 @@
         "name": "Animy",
         "packageName": "eu.kanade.tachiyomi.extension.pt.animy",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f827e0a-2/tachiyomi-pt.animy-v1.6.1.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/997cf8d/tachiyomi-pt.animy-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/animy/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f827e0a-2/tachiyomi-pt.animy-v1.6.1.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/997cf8d/tachiyomi-pt.animy-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -28271,13 +28271,13 @@
         "name": "Argos Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.argoscomics",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f827e0a-2/tachiyomi-pt.argoscomics-v1.6.64.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/997cf8d/tachiyomi-pt.argoscomics-v1.6.65.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/argoscomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/f827e0a-2/tachiyomi-pt.argoscomics-v1.6.64.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/997cf8d/tachiyomi-pt.argoscomics-v1.6.65.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106064",
-        "versionName": "1.6.64",
+        "versionCode": "106065",
+        "versionName": "1.6.65",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
