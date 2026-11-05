@@ -525,9 +525,9 @@
         "name": "Comikey",
         "packageName": "eu.kanade.tachiyomi.extension.all.comikey",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-all.comikey-v1.6.14.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.comikey-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/comikey/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.comikey-v1.6.14.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.comikey-v1.6.14.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106014",
@@ -639,9 +639,9 @@
         "name": "Cubari",
         "packageName": "eu.kanade.tachiyomi.extension.all.cubari",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-all.cubari-v1.6.1.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.cubari-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/cubari/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.cubari-v1.6.1.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.cubari-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -1602,9 +1602,9 @@
         "name": "HDoujin",
         "packageName": "eu.kanade.tachiyomi.extension.all.hdoujin",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.hdoujin-v1.6.3.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.hdoujin-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/hdoujin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.hdoujin-v1.6.3.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.hdoujin-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -3054,9 +3054,9 @@
         "name": "SchaleNetwork",
         "packageName": "eu.kanade.tachiyomi.extension.all.koharu",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-all.koharu-v1.6.5.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.koharu-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/schalenetwork/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.koharu-v1.6.5.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.koharu-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -3285,9 +3285,9 @@
         "name": "Lunar Manga",
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-all.lunaranime-v1.6.7.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.lunaranime-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/lunaranime/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.lunaranime-v1.6.7.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.lunaranime-v1.6.7.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106007",
@@ -4263,9 +4263,9 @@
         "name": "MangaFire",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangafire",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-all.mangafire-v1.6.37.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.mangafire-v1.6.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/mangafire/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.mangafire-v1.6.37.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.mangafire-v1.6.37.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106037",
@@ -5223,9 +5223,9 @@
         "name": "Manga UP!",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangaup",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.mangaup-v1.6.4.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.mangaup-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/mangaup/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.mangaup-v1.6.4.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.mangaup-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
@@ -5661,9 +5661,9 @@
         "name": "NamiComi",
         "packageName": "eu.kanade.tachiyomi.extension.all.namicomi",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.namicomi-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.namicomi-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/namicomi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.namicomi-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-all.namicomi-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -9003,9 +9003,9 @@
         "name": "Dilar",
         "packageName": "eu.kanade.tachiyomi.extension.ar.dilar",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-ar.dilar-v1.6.21.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ar.dilar-v1.6.21.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ar/dilar/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-ar.dilar-v1.6.21.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ar.dilar-v1.6.21.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106021",
@@ -9787,20 +9787,20 @@
         "name": "ProComic",
         "packageName": "eu.kanade.tachiyomi.extension.ar.procomic",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-ar.procomic-v1.6.7.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ar.procomic-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ar/procomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-ar.procomic-v1.6.7.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ar.procomic-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "8891921907305143070",
             "name": "ProComic",
             "language": "ar",
-            "homeUrl": "https://procomic.pro"
+            "homeUrl": "https://procomic.net"
           }
         ]
       },
@@ -10102,9 +10102,9 @@
         "name": "AllManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.allanime",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.allanime-v1.6.31.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.allanime-v1.6.31.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/allanime/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.allanime-v1.6.31.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.allanime-v1.6.31.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106031",
@@ -10648,9 +10648,9 @@
         "name": "BatCave",
         "packageName": "eu.kanade.tachiyomi.extension.en.batcave",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.batcave-v1.6.14.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.batcave-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/batcave/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.batcave-v1.6.14.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.batcave-v1.6.14.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106014",
@@ -10921,9 +10921,9 @@
         "name": "Coffee Manga (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.en.coffeemangaunoriginal",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.coffeemangaunoriginal-v1.6.60.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.coffeemangaunoriginal-v1.6.60.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/coffeemangaunoriginal/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.coffeemangaunoriginal-v1.6.60.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.coffeemangaunoriginal-v1.6.60.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106060",
@@ -11068,9 +11068,9 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.comix-v1.6.62.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.comix-v1.6.62.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.comix-v1.6.62.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.comix-v1.6.62.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106062",
@@ -12542,9 +12542,9 @@
         "name": "Hiperdex",
         "packageName": "eu.kanade.tachiyomi.extension.en.hiperdex",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.hiperdex-v1.6.91.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.hiperdex-v1.6.91.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/hiperdex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.hiperdex-v1.6.91.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.hiperdex-v1.6.91.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106091",
@@ -12752,9 +12752,9 @@
         "name": "InfinityScans",
         "packageName": "eu.kanade.tachiyomi.extension.en.infinityscans",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.infinityscans-v1.6.17.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.infinityscans-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/infinityscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.infinityscans-v1.6.17.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.infinityscans-v1.6.17.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106017",
@@ -12773,9 +12773,9 @@
         "name": "INKR",
         "packageName": "eu.kanade.tachiyomi.extension.en.inkr",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.inkr-v1.6.3.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.inkr-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/inkr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.inkr-v1.6.3.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.inkr-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -13193,9 +13193,9 @@
         "name": "K Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.kmanga",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.kmanga-v1.6.8.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.kmanga-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/kmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.kmanga-v1.6.8.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.kmanga-v1.6.8.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106008",
@@ -13823,9 +13823,9 @@
         "name": "Manga-Bay",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangabay",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.mangabay-v1.6.5.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.mangabay-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/mangabay/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-en.mangabay-v1.6.5.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.mangabay-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -13928,9 +13928,9 @@
         "name": "MangaCloud",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangacloud",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.mangacloud-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.mangacloud-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/mangacloud/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-en.mangacloud-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.mangacloud-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -18216,9 +18216,9 @@
         "name": "SpyFakku",
         "packageName": "eu.kanade.tachiyomi.extension.en.spyfakku",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.spyfakku-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.spyfakku-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/spyfakku/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-en.spyfakku-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.spyfakku-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -18431,9 +18431,9 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.templescan-v1.6.67.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.templescan-v1.6.67.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.templescan-v1.6.67.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.templescan-v1.6.67.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106067",
@@ -18473,9 +18473,9 @@
         "name": "The Blank",
         "packageName": "eu.kanade.tachiyomi.extension.en.theblank",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.theblank-v1.6.5.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.theblank-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/theblank/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-en.theblank-v1.6.5.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.theblank-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -18767,9 +18767,9 @@
         "name": "Toonkotsu",
         "packageName": "eu.kanade.tachiyomi.extension.en.toonkotsu",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.toonkotsu-v1.6.6.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.toonkotsu-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/toonkotsu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-en.toonkotsu-v1.6.6.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.toonkotsu-v1.6.6.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106006",
@@ -19199,9 +19199,9 @@
         "name": "WebtoonLib",
         "packageName": "eu.kanade.tachiyomi.extension.en.webtoonlib",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-en.webtoonlib-v1.6.1.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.webtoonlib-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/webtoonlib/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-en.webtoonlib-v1.6.1.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-en.webtoonlib-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -19808,9 +19808,9 @@
         "name": "CapibaraTraductor",
         "packageName": "eu.kanade.tachiyomi.extension.es.capibaratraductor",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-es.capibaratraductor-v1.6.5.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-es.capibaratraductor-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/es/capibaratraductor/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-es.capibaratraductor-v1.6.5.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-es.capibaratraductor-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -19829,9 +19829,9 @@
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-es.catharsisworld-v1.6.6.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-es.catharsisworld-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-es.catharsisworld-v1.6.6.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-es.catharsisworld-v1.6.6.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106006",
@@ -19850,9 +19850,9 @@
         "name": "Catoons",
         "packageName": "eu.kanade.tachiyomi.extension.es.catmanhwas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-es.catmanhwas-v1.6.1.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-es.catmanhwas-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/es/catmanhwas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-es.catmanhwas-v1.6.1.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-es.catmanhwas-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -19934,9 +19934,9 @@
         "name": "Code Arc Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.codearc",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-es.codearc-v1.6.4.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-es.codearc-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/es/codearc/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-es.codearc-v1.6.4.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-es.codearc-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
@@ -20108,9 +20108,9 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-es.emperorscan-v1.6.74.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-es.emperorscan-v1.6.74.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-es.emperorscan-v1.6.74.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-es.emperorscan-v1.6.74.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106074",
@@ -20276,9 +20276,9 @@
         "name": "Ikigai Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-es.ikigaimangas-v1.6.44.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-es.ikigaimangas-v1.6.44.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-es.ikigaimangas-v1.6.44.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-es.ikigaimangas-v1.6.44.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106044",
@@ -22074,21 +22074,21 @@
         ]
       },
       {
-        "name": "CrunchyScan",
+        "name": "CrunchyScan (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.fr.crunchyscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-fr.crunchyscan-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/fr/crunchyscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-fr.crunchyscan-v1.6.1.jar"
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-fr.crunchyscan-v1.6.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/fr/crunchyscanunoriginal/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-fr.crunchyscan-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "5122789490740525400",
-            "name": "CrunchyScan",
+            "name": "CrunchyScan (unoriginal)",
             "language": "fr",
             "homeUrl": "https://crunchyscan.st"
           }
@@ -22119,9 +22119,9 @@
         "name": "Epsilon Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.epsilonscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-fr.epsilonscan-v1.6.5.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-fr.epsilonscan-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/fr/epsilonscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-fr.epsilonscan-v1.6.5.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-fr.epsilonscan-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -22329,9 +22329,9 @@
         "name": "Japscan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.japscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-fr.japscan-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-fr.japscan-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/fr/japscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-fr.japscan-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-fr.japscan-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -22623,9 +22623,9 @@
         "name": "Ono",
         "packageName": "eu.kanade.tachiyomi.extension.fr.ono",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-fr.ono-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-fr.ono-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/fr/ono/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-fr.ono-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-fr.ono-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -22749,13 +22749,13 @@
         "name": "Scan-Manga",
         "packageName": "eu.kanade.tachiyomi.extension.fr.scanmanga",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-fr.scanmanga-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-fr.scanmanga-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/fr/scanmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-fr.scanmanga-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-fr.scanmanga-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -22854,9 +22854,9 @@
         "name": "Soft Epsilon Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.softepsilonscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-fr.softepsilonscan-v1.6.5.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-fr.softepsilonscan-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/fr/softepsilonscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-fr.softepsilonscan-v1.6.5.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-fr.softepsilonscan-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -23190,9 +23190,9 @@
         "name": "CosmicScans",
         "packageName": "eu.kanade.tachiyomi.extension.id.cosmicscansid",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-id.cosmicscansid-v1.6.3.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-id.cosmicscansid-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/id/cosmicscansid/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-id.cosmicscansid-v1.6.3.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-id.cosmicscansid-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -23988,9 +23988,9 @@
         "name": "Mangakuri",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangakuri",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-id.mangakuri-v1.6.39.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-id.mangakuri-v1.6.39.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/id/mangakuri/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-id.mangakuri-v1.6.39.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-id.mangakuri-v1.6.39.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106039",
@@ -24723,9 +24723,9 @@
         "name": "Softkomik",
         "packageName": "eu.kanade.tachiyomi.extension.id.softkomik",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-id.softkomik-v1.6.5.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-id.softkomik-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/id/softkomik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-id.softkomik-v1.6.5.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-id.softkomik-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -24744,20 +24744,20 @@
         "name": "Soul Scans",
         "packageName": "eu.kanade.tachiyomi.extension.id.soulscans",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-id.soulscans-v1.6.5.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-id.soulscans-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/id/soulscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-id.soulscans-v1.6.5.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-id.soulscans-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8061354444776372735",
             "name": "Soul Scans",
             "language": "id",
-            "homeUrl": "https://v1.soulscans.org"
+            "homeUrl": "https://v1.soulscans.asia"
           }
         ]
       },
@@ -24828,9 +24828,9 @@
         "name": "West Manga",
         "packageName": "eu.kanade.tachiyomi.extension.id.westmanga",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-id.westmanga-v1.6.5.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-id.westmanga-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/id/westmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-id.westmanga-v1.6.5.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-id.westmanga-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -25441,9 +25441,9 @@
         "name": "BookWalker Japan",
         "packageName": "eu.kanade.tachiyomi.extension.ja.bookwalkerjp",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-ja.bookwalkerjp-v1.6.7.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ja.bookwalkerjp-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ja/bookwalkerjp/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-ja.bookwalkerjp-v1.6.7.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ja.bookwalkerjp-v1.6.7.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106007",
@@ -26308,9 +26308,9 @@
         "name": "Hakusensha e-net",
         "packageName": "eu.kanade.tachiyomi.extension.ja.hakusensha",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-ja.hakusensha-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ja.hakusensha-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ja/hakusensha/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-ja.hakusensha-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ja.hakusensha-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -28183,9 +28183,9 @@
         "name": "Zebrack",
         "packageName": "eu.kanade.tachiyomi.extension.ja.zebrack",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-ja.zebrack-v1.6.3.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ja.zebrack-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ja/zebrack/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-ja.zebrack-v1.6.3.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ja.zebrack-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -28363,9 +28363,9 @@
         "name": "Newtoki (SBXH)",
         "packageName": "eu.kanade.tachiyomi.extension.ko.sbxh",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-ko.sbxh-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ko.sbxh-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ko/sbxh/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-ko.sbxh-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ko.sbxh-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -28795,9 +28795,9 @@
         "name": "Bladetoons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.bladetoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.bladetoons-v1.6.5.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-pt.bladetoons-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/bladetoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.bladetoons-v1.6.5.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-pt.bladetoons-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -29467,9 +29467,9 @@
         "name": "HipercooL",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hipercool",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-pt.hipercool-v1.6.65.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-pt.hipercool-v1.6.65.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/hipercool/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.hipercool-v1.6.65.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-pt.hipercool-v1.6.65.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106065",
@@ -29488,9 +29488,9 @@
         "name": "Hipertoon",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hipertoon",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-pt.hipertoon-v1.6.11.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-pt.hipertoon-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/hipertoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.hipertoon-v1.6.11.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-pt.hipertoon-v1.6.11.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106011",
@@ -29635,9 +29635,9 @@
         "name": "Ink Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.inkscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.inkscan-v1.4.4.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-pt.inkscan-v1.4.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/inkscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.inkscan-v1.4.4.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-pt.inkscan-v1.4.4.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104004",
@@ -29887,9 +29887,9 @@
         "name": "Lycan Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.lycantoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-pt.lycantoons-v1.6.4.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-pt.lycantoons-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/lycantoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.lycantoons-v1.6.4.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-pt.lycantoons-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
@@ -29971,9 +29971,9 @@
         "name": "ToonLivre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.mangalivre-v1.6.92.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-pt.mangalivre-v1.6.92.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/mangalivre/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.mangalivre-v1.6.92.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-pt.mangalivre-v1.6.92.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106092",
@@ -31630,9 +31630,9 @@
         "name": "Com-X",
         "packageName": "eu.kanade.tachiyomi.extension.ru.comx",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-ru.comx-v1.6.44.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ru.comx-v1.6.44.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ru/comx/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.comx-v1.6.44.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ru.comx-v1.6.44.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106044",
@@ -31697,9 +31697,9 @@
         "name": "HentaiLib",
         "packageName": "eu.kanade.tachiyomi.extension.ru.hentailib",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.hentailib-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ru.hentailib-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ru/hentailib/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.hentailib-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ru.hentailib-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -31802,9 +31802,9 @@
         "name": "MangaLib",
         "packageName": "eu.kanade.tachiyomi.extension.ru.mangalib",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.mangalib-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ru.mangalib-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ru/mangalib/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.mangalib-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ru.mangalib-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -32209,9 +32209,9 @@
         "name": "SlashLib",
         "packageName": "eu.kanade.tachiyomi.extension.ru.yaoilib",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.yaoilib-v1.6.3.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ru.yaoilib-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ru/slashlib/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.yaoilib-v1.6.3.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ru.yaoilib-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -33217,9 +33217,9 @@
         "name": "ArazNovel",
         "packageName": "eu.kanade.tachiyomi.extension.tr.araznovel",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-tr.araznovel-v1.6.1.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-tr.araznovel-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/tr/araznovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-tr.araznovel-v1.6.1.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-tr.araznovel-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -33385,9 +33385,9 @@
         "name": "G\u00f6lge Bah\u00e7esi",
         "packageName": "eu.kanade.tachiyomi.extension.tr.golgebahcesi",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-tr.golgebahcesi-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-tr.golgebahcesi-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/tr/golgebahcesi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-tr.golgebahcesi-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-tr.golgebahcesi-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -35174,9 +35174,9 @@
         "name": "Goc Truyen Tranh Vui",
         "packageName": "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.goctruyentranhvui-v1.6.19.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-vi.goctruyentranhvui-v1.6.19.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/vi/goctruyentranhvui/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.goctruyentranhvui-v1.6.19.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-vi.goctruyentranhvui-v1.6.19.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106019",
@@ -35195,9 +35195,9 @@
         "name": "CBHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaicube",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-vi.hentaicube-v1.6.100.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-vi.hentaicube-v1.6.100.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/vi/hentaicube/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.hentaicube-v1.6.100.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-vi.hentaicube-v1.6.100.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106100",
@@ -35279,9 +35279,9 @@
         "name": "H\u1ecdc Vi\u1ec7n 2Ten",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hv2tcomics",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-vi.hv2tcomics-v1.6.4.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-vi.hv2tcomics-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/vi/hv2tcomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.hv2tcomics-v1.6.4.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-vi.hv2tcomics-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
@@ -35489,9 +35489,9 @@
         "name": "LXManga",
         "packageName": "eu.kanade.tachiyomi.extension.vi.lxhentai",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/47b611d/tachiyomi-vi.lxhentai-v1.6.45.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-vi.lxhentai-v1.6.45.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/vi/lxhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.lxhentai-v1.6.45.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-vi.lxhentai-v1.6.45.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106045",
@@ -36643,9 +36643,9 @@
         "name": "ViTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.vitruyen",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.vitruyen-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-vi.vitruyen-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/vi/vitruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.vitruyen-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-vi.vitruyen-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -36664,9 +36664,9 @@
         "name": "YuriGarden",
         "packageName": "eu.kanade.tachiyomi.extension.vi.yurigarden",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.yurigarden-v1.6.14.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-vi.yurigarden-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/vi/yurigarden/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.yurigarden-v1.6.14.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-vi.yurigarden-v1.6.14.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106014",
@@ -36926,9 +36926,9 @@
         "name": "Creative Comic Collection",
         "packageName": "eu.kanade.tachiyomi.extension.zh.creativecomic",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-zh.creativecomic-v1.6.4.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-zh.creativecomic-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/zh/creativecomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-zh.creativecomic-v1.6.4.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-zh.creativecomic-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
