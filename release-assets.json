@@ -1951,12 +1951,12 @@
   },
   "eu.kanade.tachiyomi.extension.ar.procomic": {
     "apk": {
-      "name": "tachiyomi-ar.procomic-v1.6.8.apk",
-      "sha256": "2027fb89c9ac793028dba99d5d0a84377f9de5d821f7fc449409e487ea9dd220"
+      "name": "tachiyomi-ar.procomic-v1.6.9.apk",
+      "sha256": "5498f18e5f784098e9714475cfd8561706925cc966ff772e28b5d03054cecefe"
     },
     "jar": {
-      "name": "tachiyomi-ar.procomic-v1.6.8.jar",
-      "sha256": "9dc6ed4f7de9e16e5e5a8b8bba5413d391114c6c2de416298d667ca57db962da"
+      "name": "tachiyomi-ar.procomic-v1.6.9.jar",
+      "sha256": "c39cbe9ae86a3535924a0d225ffc35dcd0051b4d879bd4babac8a4c55de3838c"
     }
   },
   "eu.kanade.tachiyomi.extension.ar.rocksmanga": {
@@ -4117,6 +4117,16 @@
     "jar": {
       "name": "tachiyomi-en.mangahome-v1.6.0.jar",
       "sha256": "481ffc7144a6f5d531c9e1c2670b27354200582f941abea6a147a4dd944be176"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.mangahot": {
+    "apk": {
+      "name": "tachiyomi-en.mangahot-v1.6.59.apk",
+      "sha256": "413ba94752ada86d40bcc6a84de04ecda3494234aec1da2d43ead49a00602fca"
+    },
+    "jar": {
+      "name": "tachiyomi-en.mangahot-v1.6.59.jar",
+      "sha256": "822f58400856517ff7d0d69061cadaf85942d73075435ba47b1421e561319551"
     }
   },
   "eu.kanade.tachiyomi.extension.en.mangahubio": {

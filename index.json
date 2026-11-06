@@ -9787,20 +9787,20 @@
         "name": "ProComic",
         "packageName": "eu.kanade.tachiyomi.extension.ar.procomic",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ar.procomic-v1.6.8.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/d48c602/tachiyomi-ar.procomic-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ar/procomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/acd993a/tachiyomi-ar.procomic-v1.6.8.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/d48c602/tachiyomi-ar.procomic-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "8891921907305143070",
             "name": "ProComic",
             "language": "ar",
-            "homeUrl": "https://procomic.net"
+            "homeUrl": "https://procomic.pro"
           }
         ]
       },
@@ -14983,6 +14983,27 @@
             "name": "MangaHome",
             "language": "en",
             "homeUrl": "https://www.mangahome.com"
+          }
+        ]
+      },
+      {
+        "name": "MangaHot",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangahot",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/d48c602/tachiyomi-en.mangahot-v1.6.59.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/mangahot/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/d48c602/tachiyomi-en.mangahot-v1.6.59.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1536742225206613908",
+            "name": "MangaHot",
+            "language": "en",
+            "homeUrl": "https://mangahot.org"
           }
         ]
       },
