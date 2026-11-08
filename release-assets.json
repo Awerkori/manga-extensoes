@@ -3501,12 +3501,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.hentairead": {
     "apk": {
-      "name": "tachiyomi-en.hentairead-v1.6.3.apk",
-      "sha256": "4626b6664ded72ca426227414796deb0b06d7d4876c69f61944ea5d9f46b029f"
+      "name": "tachiyomi-en.hentairead-v1.6.4.apk",
+      "sha256": "1b02270d627986227ac8c920138e3a15d2de80f17ea7c83b4cdcd73454fe74c8"
     },
     "jar": {
-      "name": "tachiyomi-en.hentairead-v1.6.3.jar",
-      "sha256": "ec95e1c4d235110df847d900b3fa448129d62827fa1441a74a262dd32dec41b7"
+      "name": "tachiyomi-en.hentairead-v1.6.4.jar",
+      "sha256": "33326fb399f38399240dd8245a4a8c81eb14ad65248c60ed3869b55b217fa4c9"
     }
   },
   "eu.kanade.tachiyomi.extension.en.hentaireadio": {
