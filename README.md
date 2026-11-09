@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/Awerkori/manga-extensoes/repo/index.pb
 
 ### Método 3: Download Direto de APKs
 Caso prefira instalar uma extensão específica manualmente:
-- Acesse a pasta [`apk/`](apk/) nesta branch ou verifique as [Releases](https://github.com/Awerkori/manga-extensoes/releases) para baixar o arquivo `.apk` desejado e instalá-lo no Android.
+- Acesse as [Releases](https://github.com/Awerkori/manga-extensoes/releases) deste repositório para baixar o arquivo `.apk` desejado e instalá-lo no Android (a integridade criptográfica dos pacotes pode ser conferida no manifesto `release-assets.json`).
 
 ---
 
@@ -79,16 +79,24 @@ Encontrou uma fonte de mangá que parou de funcionar ou deseja sugerir uma nova 
 
 ---
 
-## ⚖️ Licenciamento e Política de Distribuição
+## ⚖️ Licença e Copyright
 
 Este catálogo de distribuição e os pacotes binários compilados são disponibilizados sob os termos da **GNU Affero General Public License versão 3.0** (`AGPL-3.0-only`). Consulte o arquivo [LICENSE](LICENSE) para obter o texto integral inalterado da licença e o arquivo [NOTICE](NOTICE) para o inventário de autoria e termos legais.
+
+```
+Copyright (C) Felipe GFA
+Copyright (C) Keiyoushi Contributors
+Copyright (C) 2026 Project Nox Contributors & Awerkori
+```
 
 ### 📦 Código-Fonte Correspondente e Rastreabilidade (AGPLv3 Seção 6)
 Em cumprimento à Seção 6 da GNU AGPLv3, o código-fonte correspondente aos APKs distribuídos neste repositório está publicamente disponível em:  
 ➡️ [**Project Nox · Código-fonte das Extensões de Mangá**](https://github.com/Awerkori/manga-fonte-extensoes)
 
-- **Instruções e Receitas de Compilação:** Os scripts Gradle, configurações de build e pipelines de CI/CD estão mantidos de forma auditável e transparente no repositório de desenvolvimento.
-- **Rastreabilidade e Integridade:** Cada pacote possui identificador único (`pkg`), versão (`version`), código de versão (`code`) e verificação de integridade criptográfica SHA-256 em `release-assets.json`. A rastreabilidade é assegurada entre o código-fonte mantido e os binários gerados.
+- **Instruções e Receitas de Compilação:** Os scripts Gradle, configurações de build e pipelines de CI/CD estão mantidos de forma auditável e transparente no repositório de desenvolvimento irmão.
+- **Rastreabilidade e Integridade:** Cada pacote possui identificador único (`pkg`), versão (`version`), código de versão (`code`) e verificação de integridade criptográfica SHA-256 no catálogo `release-assets.json`.
+- **Ressalva de Proveniência Forense:** Extensões mantidas ativamente pelo Project Nox contam com rastreabilidade completa entre código-fonte, scripts e binários. Para os pacotes históricos incorporados do ecossistema upstream Keiyoushi, a rastreabilidade é assegurada por pacote, versão e árvore de código upstream, não se declarando rastreabilidade universal a commits individuais para binários pré-existentes sem evidência histórica direta.
+- **Componentes de Terceiros e Apache 2.0:** O catálogo preserva integralmente o regime de licenciamento da Apache License 2.0 dos componentes upstream derivados, sendo as contribuições originais do Project Nox licenciadas sob a GNU AGPL versão 3.0.
 
 ### 🌐 Política Oficial de Distribuição
 - **Gratuidade Oficial:** O Project Nox distribui oficialmente todos os seus APKs e catálogos de forma 100% gratuita para a comunidade.
