@@ -79,6 +79,26 @@ Encontrou uma fonte de mangá que parou de funcionar ou deseja sugerir uma nova 
 
 ---
 
-## ⚖️ Isenção de Responsabilidade
+## ⚖️ Licenciamento e Política de Distribuição
 
+Este catálogo de distribuição e os pacotes binários compilados são disponibilizados sob os termos da **GNU General Public License versão 3.0** (`GPL-3.0-only`). Consulte o arquivo [LICENSE](LICENSE) para obter o texto integral inalterado da licença e o arquivo [NOTICE](NOTICE) para o inventário de autoria e termos legais.
+
+### 📦 Código-Fonte Correspondente (GPLv3 Seção 6)
+Em cumprimento à Seção 6 da GNU GPLv3, o código-fonte correspondente a todos os APKs distribuídos neste repositório está publicamente disponível em:  
+➡️ [**Project Nox · Código-fonte das Extensões de Mangá**](https://github.com/Awerkori/manga-fonte-extensoes)
+
+As instruções de compilação, scripts de build em Gradle e fluxos de automação de empacotamento estão mantidos de forma auditável e transparente no repositório de desenvolvimento irmão.
+
+### 🌐 Política Oficial de Distribuição
+- **Gratuidade Oficial:** O Project Nox distribui oficialmente todos os seus APKs e catálogos de forma 100% gratuita.
+- **Redistribuição Comunitária:** Incentivamos o compartilhamento comunitário e o espelhamento livre dos pacotes, sempre respeitando os créditos de autoria e os termos das licenças.
+- **Termos da GPL 3.0:** Em conformidade estrita com a GPLv3, não é incluída nenhuma cláusula contratual proibindo a cobrança pela distribuição por terceiros. A preferência comunitária por gratuidade não altera os direitos e garantias concedidos pela GNU GPLv3 e pela Apache 2.0.
+
+### 📌 Nota sobre GPL-3.0 e AGPL-3.0
+O Project Nox adota oficialmente a licença **GNU GPL versão 3.0**. Diferentemente da licença GNU AGPLv3, a GPLv3 não contém a cláusula de interação remota por rede (Seção 13 da AGPL).
+
+### 🛡️ Autenticidade e Marca
+A concessão da licença de software livre refere-se estritamente ao código e aos binários. Ela **não concede** autorização ou licença de uso da marca, do nome "Project Nox" ou de logotipos oficiais para alegar endosso ou representação oficial do projeto.
+
+### ⚖️ Isenção de Responsabilidade
 O **Project Nox** disponibiliza apenas ferramentas de software livre para integração e leitura. Não controlamos, não hospedamos e não comercializamos arquivos de imagem de terceiros. Todo o conteúdo carregado através das extensões é fornecido diretamente pelas fontes externas públicas.
