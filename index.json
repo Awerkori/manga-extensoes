@@ -4122,13 +4122,13 @@
         "name": "MangaDex",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/bdff10c/tachiyomi-all.mangadex-v1.6.4.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/39e6694/tachiyomi-all.mangadex-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/mangadex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/bdff10c/tachiyomi-all.mangadex-v1.6.4.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/39e6694/tachiyomi-all.mangadex-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
