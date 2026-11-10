@@ -6651,12 +6651,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.webdexscans": {
     "apk": {
-      "name": "tachiyomi-en.webdexscans-v1.6.55.apk",
-      "sha256": "b107483df61e2ea33bbee7787b559eaed50c1a2dcee0a415422da14f779557a8"
+      "name": "tachiyomi-en.webdexscans-v1.6.56.apk",
+      "sha256": "aae9330da948b87f37f8d5886b367cc2dda69b8d9902b05e0fd37a8f39d202b8"
     },
     "jar": {
-      "name": "tachiyomi-en.webdexscans-v1.6.55.jar",
-      "sha256": "c2ea12e6df22a9e9b2ad17286950742708018164d646e77d6fa25b55adefb2f3"
+      "name": "tachiyomi-en.webdexscans-v1.6.56.jar",
+      "sha256": "5099dbb7627a8257cbad6136d4f386377ea39290009d4598a8a888e062248017"
     }
   },
   "eu.kanade.tachiyomi.extension.en.webnex": {

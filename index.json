@@ -20694,13 +20694,13 @@
         "name": "Webdex Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.webdexscans",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-en.webdexscans-v1.6.55.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/bd68848/tachiyomi-en.webdexscans-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/webdexscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-en.webdexscans-v1.6.55.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/bd68848/tachiyomi-en.webdexscans-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
