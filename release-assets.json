@@ -219,6 +219,16 @@
       "sha256": "85d3486819dda9258c7696cf1023f8ca5ff1e05efe103d07bf09f03ca8b76ae3"
     }
   },
+  "eu.kanade.tachiyomi.extension.all.dlsite": {
+    "apk": {
+      "name": "tachiyomi-all.dlsite-v1.6.0.apk",
+      "sha256": "0c1f97c8eb346761a9bd22098b3cb7fe74e51b15b6f161fc87f25db136cf3570"
+    },
+    "jar": {
+      "name": "tachiyomi-all.dlsite-v1.6.0.jar",
+      "sha256": "62603e56fddad7e233342e60713603f4ec6b823ce592f684747eece063aef3ff"
+    }
+  },
   "eu.kanade.tachiyomi.extension.all.doujiva": {
     "apk": {
       "name": "tachiyomi-all.doujiva-v1.6.2.apk",
@@ -12271,12 +12281,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mediocretoons": {
     "apk": {
-      "name": "tachiyomi-pt.mediocretoons-v1.6.2.apk",
-      "sha256": "38e77f558ca31eba0d72c7b6c25fd2f972bdd4ce39f572101aebdc35e7db1b5f"
+      "name": "tachiyomi-pt.mediocretoons-v1.6.3.apk",
+      "sha256": "7ed9b70b0eae3638e50e480a1bbdf423d0bf9cf6bee5fab7d02f35d93b0d0477"
     },
     "jar": {
-      "name": "tachiyomi-pt.mediocretoons-v1.6.2.jar",
-      "sha256": "966c8fb41b60f3e0764a446213467013ca6eb19bbed7076dfa0c8753c78553c1"
+      "name": "tachiyomi-pt.mediocretoons-v1.6.3.jar",
+      "sha256": "03f72fa86143650d6e473a049415089ad6d4afbff0b83a52fa866f8a580d87e2"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.megahentai": {

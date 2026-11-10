@@ -882,6 +882,87 @@
         ]
       },
       {
+        "name": "DLsite",
+        "packageName": "eu.kanade.tachiyomi.extension.all.dlsite",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/18d8f3a/tachiyomi-all.dlsite-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/dlsite/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/18d8f3a/tachiyomi-all.dlsite-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6040331647076858586",
+            "name": "DLsite",
+            "language": "ja",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "4210329134305024062",
+            "name": "DLsite",
+            "language": "en",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "4143192473289983105",
+            "name": "DLsite",
+            "language": "zh-Hans",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "5622609959542190251",
+            "name": "DLsite",
+            "language": "zh-Hant",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "1833705546601783759",
+            "name": "DLsite",
+            "language": "ko",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "3424571751101426986",
+            "name": "DLsite",
+            "language": "es",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "2400301331250345449",
+            "name": "DLsite",
+            "language": "fr",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "1152850440228902839",
+            "name": "DLsite",
+            "language": "id",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "1421912116059473691",
+            "name": "DLsite",
+            "language": "th",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "8720823020064609415",
+            "name": "DLsite",
+            "language": "vi",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "5074778917405295493",
+            "name": "DLsite",
+            "language": "pt-BR",
+            "homeUrl": "https://www.dlsite.com"
+          }
+        ]
+      },
+      {
         "name": "Doujiva",
         "packageName": "eu.kanade.tachiyomi.extension.all.doujiva",
         "resources": {
@@ -32498,13 +32579,13 @@
         "name": "Mediocre Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-pt.mediocretoons-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/18d8f3a/tachiyomi-pt.mediocretoons-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/mediocretoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-pt.mediocretoons-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/18d8f3a/tachiyomi-pt.mediocretoons-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
