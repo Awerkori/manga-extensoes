@@ -14975,13 +14975,13 @@
         "name": "Madokami",
         "packageName": "eu.kanade.tachiyomi.extension.en.madokami",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/371be83/tachiyomi-en.madokami-v1.6.20.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/781b32a/tachiyomi-en.madokami-v1.6.21.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/madokami/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/371be83/tachiyomi-en.madokami-v1.6.20.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/781b32a/tachiyomi-en.madokami-v1.6.21.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106020",
-        "versionName": "1.6.20",
+        "versionCode": "106021",
+        "versionName": "1.6.21",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

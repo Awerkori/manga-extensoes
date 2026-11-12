@@ -4241,12 +4241,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.madokami": {
     "apk": {
-      "name": "tachiyomi-en.madokami-v1.6.20.apk",
-      "sha256": "1106f6caa3b9de3383256cdf0fdd2f7e85c9350b19fab347ca7b3a0ec7f7c707"
+      "name": "tachiyomi-en.madokami-v1.6.21.apk",
+      "sha256": "50551854d92fbd1c26eb2ba4ee065e0425d6f820ab9da3a68895d4f732f5c616"
     },
     "jar": {
-      "name": "tachiyomi-en.madokami-v1.6.20.jar",
-      "sha256": "3c109ce429b5623e158e8d0c7ffc5de8adbade503cb3c4d65cda9b2efbbf00cc"
+      "name": "tachiyomi-en.madokami-v1.6.21.jar",
+      "sha256": "1688d73c2d1f898de03139f4b656264fc460e01c03754195e62f08dae4fb2557"
     }
   },
   "eu.kanade.tachiyomi.extension.en.magusmanga": {
