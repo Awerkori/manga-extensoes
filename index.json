@@ -25738,13 +25738,13 @@
         "name": "VoraToon",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikcast",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/87db860/tachiyomi-id.komikcast-v1.6.90.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/7149c9e/tachiyomi-id.komikcast-v1.6.91.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/id/voratoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/87db860/tachiyomi-id.komikcast-v1.6.90.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/7149c9e/tachiyomi-id.komikcast-v1.6.91.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106090",
-        "versionName": "1.6.90",
+        "versionCode": "106091",
+        "versionName": "1.6.91",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

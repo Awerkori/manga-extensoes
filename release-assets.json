@@ -9031,12 +9031,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.komikcast": {
     "apk": {
-      "name": "tachiyomi-id.komikcast-v1.6.90.apk",
-      "sha256": "38eef55e5fd7276f09a9028eff9a06fe3b41866c455300a9dd553a6d0ddf96ab"
+      "name": "tachiyomi-id.komikcast-v1.6.91.apk",
+      "sha256": "b1c78c3a1cb0072387f0ecc46583e9dfb388b19675d7794785b21547307419a4"
     },
     "jar": {
-      "name": "tachiyomi-id.komikcast-v1.6.90.jar",
-      "sha256": "8791a9deb9c6a03706b43557c202681cd8012601f3234315323f96bdcfb414fc"
+      "name": "tachiyomi-id.komikcast-v1.6.91.jar",
+      "sha256": "49e7cbf659634f14359b726135536480fa0fb7604dd1f11017db2c4db9a820aa"
     }
   },
   "eu.kanade.tachiyomi.extension.id.komikdewasa": {
