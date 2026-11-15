@@ -18042,20 +18042,20 @@
         "name": "Mist Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.mistscans",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-en.mistscans-v1.6.25.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/82a6e00/tachiyomi-en.mistscans-v1.6.26.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/mistscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-en.mistscans-v1.6.25.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/82a6e00/tachiyomi-en.mistscans-v1.6.26.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106025",
-        "versionName": "1.6.25",
+        "versionCode": "106026",
+        "versionName": "1.6.26",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "80073424419623517",
+            "id": "5732165121603348598",
             "name": "Mist Scans",
             "language": "en",
-            "homeUrl": "https://mistscans.com"
+            "homeUrl": "https://mistscans.org"
           }
         ]
       },
@@ -21240,20 +21240,20 @@
         "name": "WebtoonScan",
         "packageName": "eu.kanade.tachiyomi.extension.en.webtoonscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-en.webtoonscan-v1.6.58.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/82a6e00/tachiyomi-en.webtoonscan-v1.6.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/webtoonscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-en.webtoonscan-v1.6.58.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/82a6e00/tachiyomi-en.webtoonscan-v1.6.59.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106058",
-        "versionName": "1.6.58",
-        "contentWarning": "CONTENT_WARNING_MIXED",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
+        "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "3062846066388633553",
             "name": "WebtoonScan",
             "language": "en",
-            "homeUrl": "https://webtoonscan.com"
+            "homeUrl": "https://webtoonscan.org"
           }
         ]
       },
@@ -29189,13 +29189,13 @@
         "name": "KissLove",
         "packageName": "eu.kanade.tachiyomi.extension.ja.kisslove",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-ja.kisslove-v1.6.22.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/82a6e00/tachiyomi-ja.kisslove-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ja/kisslove/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-2/tachiyomi-ja.kisslove-v1.6.22.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/82a6e00/tachiyomi-ja.kisslove-v1.6.23.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106022",
-        "versionName": "1.6.22",
+        "versionCode": "106023",
+        "versionName": "1.6.23",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

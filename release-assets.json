@@ -5381,12 +5381,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.mistscans": {
     "apk": {
-      "name": "tachiyomi-en.mistscans-v1.6.25.apk",
-      "sha256": "6be150fd9884326339411bdb7a79008e7b99e50c90f02fdd2e2717da7e034263"
+      "name": "tachiyomi-en.mistscans-v1.6.26.apk",
+      "sha256": "1ad979c0d726b0613702fac6e603a0bdda9c027fc7cc4147018274d1f1b50826"
     },
     "jar": {
-      "name": "tachiyomi-en.mistscans-v1.6.25.jar",
-      "sha256": "eebb6e53d6cfda97f38830704e0dfffdac72fd9b92563fadc47dabb56a7ece1e"
+      "name": "tachiyomi-en.mistscans-v1.6.26.jar",
+      "sha256": "f93033a28ef3264c974f8df10f5cf405183581076d128fc62ded8b94f2baf531"
     }
   },
   "eu.kanade.tachiyomi.extension.en.mlbblore": {
@@ -6891,12 +6891,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.webtoonscan": {
     "apk": {
-      "name": "tachiyomi-en.webtoonscan-v1.6.58.apk",
-      "sha256": "0bb40b5a425707fb9191ba917c48074a9bc6a3a0ce31738078e620d27cc4d010"
+      "name": "tachiyomi-en.webtoonscan-v1.6.59.apk",
+      "sha256": "5d90be78c511c6116f34c27154b4533348ff3ac31ad9a6f6d7bccd1bceb6126c"
     },
     "jar": {
-      "name": "tachiyomi-en.webtoonscan-v1.6.58.jar",
-      "sha256": "30a818e56584fbe7bbbc35ddb65345b331f00911d07161053c02dc0fe8142dab"
+      "name": "tachiyomi-en.webtoonscan-v1.6.59.jar",
+      "sha256": "99777c7013bfa0e4e854af8ace3f44c687dbc9bb113974434562ac78f3976c10"
     }
   },
   "eu.kanade.tachiyomi.extension.en.webtoonxyz": {
@@ -10661,12 +10661,12 @@
   },
   "eu.kanade.tachiyomi.extension.ja.kisslove": {
     "apk": {
-      "name": "tachiyomi-ja.kisslove-v1.6.22.apk",
-      "sha256": "d7f9a4a1c79b5e32b95e696c811eafc20a3bfea2d5114ca01f445a8ffc9697f6"
+      "name": "tachiyomi-ja.kisslove-v1.6.23.apk",
+      "sha256": "f071e8da528825073cbd6d87ca626cc13a51d687e705e15d2da5d534bafe9d32"
     },
     "jar": {
-      "name": "tachiyomi-ja.kisslove-v1.6.22.jar",
-      "sha256": "6e4ee11863ee181abf5c6b815503cbe0369378d57fe932230bce47a3549dd154"
+      "name": "tachiyomi-ja.kisslove-v1.6.23.jar",
+      "sha256": "874ba21fe0992be01616be5159a0356e8c6c61a23f9f136294cf9956db11732a"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.klto9": {
