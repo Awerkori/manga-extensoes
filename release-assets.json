@@ -851,12 +851,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.lunaranime": {
     "apk": {
-      "name": "tachiyomi-all.lunaranime-v1.6.8.apk",
-      "sha256": "2860b5314372b2baec1d40d15363c81b0f47d90f2cb258058285219129ef1259"
+      "name": "tachiyomi-all.lunaranime-v1.6.9.apk",
+      "sha256": "5140124f2520c9fbfc363e8b62d8e87d6733e6d01f8f45b4fe9f6814305d4eb9"
     },
     "jar": {
-      "name": "tachiyomi-all.lunaranime-v1.6.8.jar",
-      "sha256": "bea84a4e3473bd3f3e3f4cf6ba7fbbe931be475abd29556448c470e07c5cd03e"
+      "name": "tachiyomi-all.lunaranime-v1.6.9.jar",
+      "sha256": "942342b2557bf740b60a5fc22ea40a7bbae99b66c4774b8febd29c006acc7b3d"
     }
   },
   "eu.kanade.tachiyomi.extension.all.luscious": {
