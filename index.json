@@ -885,13 +885,13 @@
         "name": "DeviantArt",
         "packageName": "eu.kanade.tachiyomi.extension.all.deviantart",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.deviantart-v1.6.15.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-all.deviantart-v1.6.16.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/deviantart/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.deviantart-v1.6.15.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-all.deviantart-v1.6.16.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106015",
-        "versionName": "1.6.15",
+        "versionCode": "106016",
+        "versionName": "1.6.16",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -3504,13 +3504,13 @@
         "name": "Komga",
         "packageName": "eu.kanade.tachiyomi.extension.all.komga",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.komga-v1.6.76.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-all.komga-v1.6.77.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/komga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.komga-v1.6.76.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-all.komga-v1.6.77.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106076",
-        "versionName": "1.6.76",
+        "versionCode": "106077",
+        "versionName": "1.6.77",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3782,6 +3782,27 @@
             "name": "Lemoon",
             "language": "all",
             "homeUrl": "https://lemoon.io"
+          }
+        ]
+      },
+      {
+        "name": "Punk Records",
+        "packageName": "eu.kanade.tachiyomi.extension.all.littlegarden",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-all.littlegarden-v1.6.4.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/fr/punkrecords/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-all.littlegarden-v1.6.4.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4646674279369583651",
+            "name": "Punk Records",
+            "language": "fr",
+            "homeUrl": "https://punkrecordz.com"
           }
         ]
       },
@@ -7023,13 +7044,13 @@
         "name": "Pawchive",
         "packageName": "eu.kanade.tachiyomi.extension.all.pawchive",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.pawchive-v1.6.4.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-all.pawchive-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/all/pawchive/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.pawchive-v1.6.4.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-all.pawchive-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22377,6 +22398,27 @@
         ]
       },
       {
+        "name": "Ichijou Translations",
+        "packageName": "eu.kanade.tachiyomi.extension.es.ichijou",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-es.ichijou-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/es/ichijou/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-es.ichijou-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "969093245723045798",
+            "name": "Ichijou Translations",
+            "language": "es",
+            "homeUrl": "https://ichijoutranslations.com"
+          }
+        ]
+      },
+      {
         "name": "Ikigai Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
         "resources": {
@@ -23077,13 +23119,13 @@
         "name": "ManhwaOnline",
         "packageName": "eu.kanade.tachiyomi.extension.es.manhwaonline",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-es.manhwaonline-v1.6.60.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-es.manhwaonline-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/es/manhwaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-1/tachiyomi-es.manhwaonline-v1.6.60.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-es.manhwaonline-v1.6.61.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106060",
-        "versionName": "1.6.60",
+        "versionCode": "106061",
+        "versionName": "1.6.61",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -30931,6 +30973,27 @@
             "name": "\ube14\ub799\ud230",
             "language": "ko",
             "homeUrl": "https://blacktoon426.com"
+          }
+        ]
+      },
+      {
+        "name": "Cookmana",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.cookmana",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-ko.cookmana-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ko/cookmana/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/6c71bec/tachiyomi-ko.cookmana-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "661147347145612262",
+            "name": "Cookmana",
+            "language": "ko",
+            "homeUrl": "https://cookmana12.com"
           }
         ]
       },
