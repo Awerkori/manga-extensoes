@@ -15731,12 +15731,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.medamtruyen": {
     "apk": {
-      "name": "tachiyomi-vi.medamtruyen-v1.6.14.apk",
-      "sha256": "178efa938dd4bf4531ff9f5dc938576af8874301ee1944b069930067008d1bd0"
+      "name": "tachiyomi-vi.medamtruyen-v1.6.15.apk",
+      "sha256": "9601d8e050dc7c0dc21e81ee7a50d88608ddebb6d931ef9b97aa8c949bba091b"
     },
     "jar": {
-      "name": "tachiyomi-vi.medamtruyen-v1.6.14.jar",
-      "sha256": "1754ab60ea064ce6c964908efc2b02c5d5d431a3d99307c33ef7db029e42274e"
+      "name": "tachiyomi-vi.medamtruyen-v1.6.15.jar",
+      "sha256": "4e5d540f08cc72ce19908644e1e3fe75ae09681b5206231c6dc6477289f04924"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.mehentai": {
@@ -15991,12 +15991,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.soaicacomic": {
     "apk": {
-      "name": "tachiyomi-vi.soaicacomic-v1.6.9.apk",
-      "sha256": "d04fe1279293f17f47094e42f35a259fefbf436a667b73740322004200a5a865"
+      "name": "tachiyomi-vi.soaicacomic-v1.6.10.apk",
+      "sha256": "dfd9f50580eb74859e2e29609b02b2c822974409745aff6e43932f4020cb2c49"
     },
     "jar": {
-      "name": "tachiyomi-vi.soaicacomic-v1.6.9.jar",
-      "sha256": "f0859dcf149f7f364debcd37439e97babb2847f488cbb271552cf13e1b1c7649"
+      "name": "tachiyomi-vi.soaicacomic-v1.6.10.jar",
+      "sha256": "371149d70b39cbf0c79ebec801650539804b9d136bc77979390457a0454e737b"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.suicaodex": {
@@ -16011,12 +16011,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.teamlanhlung": {
     "apk": {
-      "name": "tachiyomi-vi.teamlanhlung-v1.6.43.apk",
-      "sha256": "2dd228f7962aac445b113a31bf5a4bbaef9ba0d3c54d6ba84c1acdf96d9205bd"
+      "name": "tachiyomi-vi.teamlanhlung-v1.6.44.apk",
+      "sha256": "70a2f4ad53d2f2a5e983b77ad3c60e76393c71f5088b37cda16ad9c478ff717a"
     },
     "jar": {
-      "name": "tachiyomi-vi.teamlanhlung-v1.6.43.jar",
-      "sha256": "007b30eaf097b1db7d7a5fe27c5551806e77f4efeb78fea43e0189e0cefaf59c"
+      "name": "tachiyomi-vi.teamlanhlung-v1.6.44.jar",
+      "sha256": "86bffe77506f4ca49c1e62ff13bea0491707964e71ee25a2fd7d547d23c28075"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.teletruyen": {
@@ -16211,12 +16211,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.tusachxinhxinh": {
     "apk": {
-      "name": "tachiyomi-vi.tusachxinhxinh-v1.6.6.apk",
-      "sha256": "224a239207c2d4d148a7770261ef5cb303b1661dc419d93bec571121140b0fca"
+      "name": "tachiyomi-vi.tusachxinhxinh-v1.6.7.apk",
+      "sha256": "17d1856cb0bc70e6178c589b4ee0f7622f45f4c9986b21be1c6c1819abe9b633"
     },
     "jar": {
-      "name": "tachiyomi-vi.tusachxinhxinh-v1.6.6.jar",
-      "sha256": "1854413e28b2141eb5a3adedd126ca279c9612e095a52d4006ff7598fc84be29"
+      "name": "tachiyomi-vi.tusachxinhxinh-v1.6.7.jar",
+      "sha256": "b5edf588bdea421e81d177a5a18a92efb75d59f76bc9554f0d6d03d1715b85f4"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.umetruyen": {

@@ -40106,13 +40106,13 @@
         "name": "MeDamTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.medamtruyen",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/0d36544/tachiyomi-vi.medamtruyen-v1.6.14.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/58dfd28/tachiyomi-vi.medamtruyen-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/vi/medamtruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/0d36544/tachiyomi-vi.medamtruyen-v1.6.14.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/58dfd28/tachiyomi-vi.medamtruyen-v1.6.15.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106014",
-        "versionName": "1.6.14",
+        "versionCode": "106015",
+        "versionName": "1.6.15",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -40668,13 +40668,13 @@
         "name": "SoaiCaComic",
         "packageName": "eu.kanade.tachiyomi.extension.vi.soaicacomic",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/0d36544/tachiyomi-vi.soaicacomic-v1.6.9.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/58dfd28/tachiyomi-vi.soaicacomic-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/vi/soaicacomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/0d36544/tachiyomi-vi.soaicacomic-v1.6.9.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/58dfd28/tachiyomi-vi.soaicacomic-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -40710,13 +40710,13 @@
         "name": "Team Lanh Lung",
         "packageName": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/0d36544/tachiyomi-vi.teamlanhlung-v1.6.43.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/58dfd28/tachiyomi-vi.teamlanhlung-v1.6.44.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/vi/teamlanhlung/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/0d36544/tachiyomi-vi.teamlanhlung-v1.6.43.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/58dfd28/tachiyomi-vi.teamlanhlung-v1.6.44.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106043",
-        "versionName": "1.6.43",
+        "versionCode": "106044",
+        "versionName": "1.6.44",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -41130,13 +41130,13 @@
         "name": "TuSachXinhXinh",
         "packageName": "eu.kanade.tachiyomi.extension.vi.tusachxinhxinh",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.tusachxinhxinh-v1.6.6.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/58dfd28/tachiyomi-vi.tusachxinhxinh-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/vi/tusachxinhxinh/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.tusachxinhxinh-v1.6.6.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/58dfd28/tachiyomi-vi.tusachxinhxinh-v1.6.7.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106006",
-        "versionName": "1.6.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
