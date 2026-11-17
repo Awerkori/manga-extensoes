@@ -38,13 +38,24 @@ Toque no link abaixo diretamente pelo navegador do seu celular Android para regi
 
 1. No seu aplicativo (**Mihon e forks**), acesse **Mais** (ou Configurações) → **Configurações** → **Navegar** → **Repositórios de extensões**.
 2. Toque no botão de adicionar (`+`).
-3. Insira a URL do catálogo moderno de alta performance (Protobuf):
+3. Escolha e cole URL do catálogo desejado:
 
+**Protobuf (`index.pb`) — formato principal, moderno e recomendado**
 ```
 https://raw.githubusercontent.com/Awerkori/manga-extensoes/repo/index.pb
 ```
 
-*(Opcional: para versões antigas de leitores ou compatibilidade legada com JSON puro, você também pode utilizar `https://raw.githubusercontent.com/Awerkori/manga-extensoes/repo/index.min.json`).*
+**JSON (`index.json`) — formato legado**
+```
+https://raw.githubusercontent.com/Awerkori/manga-extensoes/repo/index.json
+```
+
+**JSON compacto (`index.min.json`) — formato legado compacto**
+```
+https://raw.githubusercontent.com/Awerkori/manga-extensoes/repo/index.min.json
+```
+
+Os dois formatos legados continuam oficialmente suportados, mantidos e atualizados automaticamente junto com o Protobuf, para preservar compatibilidade com clientes antigos e forks.
 
 ---
 
