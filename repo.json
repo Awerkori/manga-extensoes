@@ -1,9 +1,9 @@
 {
-  "index_v2": "https://raw.githubusercontent.com/Awerkori/manga-extensoes/repo/index.pb",
+  "index_v2": "https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.pb",
   "meta": {
     "name": "Project Nox",
     "shortName": "NOX",
-    "website": "https://github.com/Awerkori/manga-fonte-extensoes",
+    "website": "https://github.com/ProjectNox-org/manga-fonte-extensoes",
     "signingKeyFingerprint": "144f44e865cbfae6bde110489ef7ec142f0b1681f627a093a218650e21db5dad"
   }
 }
