@@ -34164,13 +34164,13 @@
         "name": "KuroMangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.kuromangas",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.kuromangas-v1.6.20.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/4bb4d02/tachiyomi-pt.kuromangas-v1.6.21.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/pt/kuromangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.kuromangas-v1.6.20.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/4bb4d02/tachiyomi-pt.kuromangas-v1.6.21.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106020",
-        "versionName": "1.6.20",
+        "versionCode": "106021",
+        "versionName": "1.6.21",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
