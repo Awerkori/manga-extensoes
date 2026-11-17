@@ -12281,12 +12281,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.baozinho": {
     "apk": {
-      "name": "tachiyomi-pt.baozinho-v1.6.2.apk",
-      "sha256": "1fe420745d84b0c50d8acdd2239804f6c52395fa26c60fb9bb26d633d9ef5ab5"
+      "name": "tachiyomi-pt.baozinho-v1.6.3.apk",
+      "sha256": "b8ab1fb490228ac52e9b6c60c84ba0a9776c9b4dd28feccb3cc63ee7891c6f54"
     },
     "jar": {
-      "name": "tachiyomi-pt.baozinho-v1.6.2.jar",
-      "sha256": "55d53cbfe88567d0ade4efe516d751a6a36e78701f7fd8e4ea7eac8bb1cefded"
+      "name": "tachiyomi-pt.baozinho-v1.6.3.jar",
+      "sha256": "1ab76c8d5874d7423959def22ac61007670ab35615e367ea9f5897c243faba6f"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.bendezomnihero": {
