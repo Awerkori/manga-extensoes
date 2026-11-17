@@ -12431,12 +12431,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.brscans": {
     "apk": {
-      "name": "tachiyomi-pt.brscans-v1.6.1.apk",
-      "sha256": "412f8edd7bdf7f760c9e4b14bb35ff6c9e779d545aa1c6e9afe49d10f281b9dd"
+      "name": "tachiyomi-pt.brscans-v1.6.2.apk",
+      "sha256": "5aa7ee9a92d87eb181650075aaeb5ae23acfcb3247e2f6dcba7a06ee2a6ef426"
     },
     "jar": {
-      "name": "tachiyomi-pt.brscans-v1.6.1.jar",
-      "sha256": "6b30c3acff1691d06030ceceb7db9c14646e94aefdb0c4c9a02899db7e3657bf"
+      "name": "tachiyomi-pt.brscans-v1.6.2.jar",
+      "sha256": "114b5b2a1ad000fc8c2dbbd18d4ab670993247b92e43861f5787f4d25f78da99"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.bryaoi": {
@@ -15631,12 +15631,12 @@
   },
   "eu.kanade.tachiyomi.extension.uk.comixtopia": {
     "apk": {
-      "name": "tachiyomi-uk.comixtopia-v1.6.2.apk",
-      "sha256": "e63411d0f23f2232abdcee3ab660bfe111430e6c3f5b9e4efe2356711df2993b"
+      "name": "tachiyomi-uk.comixtopia-v1.6.3.apk",
+      "sha256": "da3493e697202150f5358203cb901d96cbb9e239939ae5ca25476cc118aa54e4"
     },
     "jar": {
-      "name": "tachiyomi-uk.comixtopia-v1.6.2.jar",
-      "sha256": "bdc14123b3bed566e755164ffcc03b7b2de10a4898e86cfaaf08ede442d6e33b"
+      "name": "tachiyomi-uk.comixtopia-v1.6.3.jar",
+      "sha256": "3ae4d77eeca89cd79f1b11fdecb24ae68a02bd77aa77a2a9c10c0ee1bbfd6f6f"
     }
   },
   "eu.kanade.tachiyomi.extension.uk.dgmanga": {

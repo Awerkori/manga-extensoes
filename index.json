@@ -33177,13 +33177,13 @@
         "name": "BRScans",
         "packageName": "eu.kanade.tachiyomi.extension.pt.brscans",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.brscans-v1.6.1.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/bed87cb/tachiyomi-pt.brscans-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/pt/brscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.brscans-v1.6.1.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/bed87cb/tachiyomi-pt.brscans-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -39909,13 +39909,13 @@
         "name": "ComixTopia",
         "packageName": "eu.kanade.tachiyomi.extension.uk.comixtopia",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-uk.comixtopia-v1.6.2.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/bed87cb/tachiyomi-uk.comixtopia-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/uk/comixtopia/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-uk.comixtopia-v1.6.2.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/bed87cb/tachiyomi-uk.comixtopia-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
