@@ -11416,9 +11416,9 @@
         "name": "ProComic",
         "packageName": "eu.kanade.tachiyomi.extension.ar.procomic",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/371be83/tachiyomi-ar.procomic-v1.6.10.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/2daa6f8/tachiyomi-ar.procomic-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/ar/procomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/371be83/tachiyomi-ar.procomic-v1.6.10.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/2daa6f8/tachiyomi-ar.procomic-v1.6.10.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106010",
@@ -21068,9 +21068,9 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/371be83/tachiyomi-en.templescan-v1.6.69.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/2daa6f8/tachiyomi-en.templescan-v1.6.69.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/371be83/tachiyomi-en.templescan-v1.6.69.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/2daa6f8/tachiyomi-en.templescan-v1.6.69.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106069",
@@ -22728,9 +22728,9 @@
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/371be83/tachiyomi-es.catharsisworld-v1.6.7.apk",
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/2daa6f8/tachiyomi-es.catharsisworld-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/371be83/tachiyomi-es.catharsisworld-v1.6.7.jar"
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/2daa6f8/tachiyomi-es.catharsisworld-v1.6.7.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106007",
@@ -32850,6 +32850,27 @@
             "name": "Bakai",
             "language": "pt-BR",
             "homeUrl": "https://bakai.org"
+          }
+        ]
+      },
+      {
+        "name": "Baozinho",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.baozinho",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/2daa6f8/tachiyomi-pt.baozinho-v1.6.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/manga-fonte-extensoes@main/src/pt/baozinho/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/manga-extensoes/releases/download/2daa6f8/tachiyomi-pt.baozinho-v1.6.2.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3067506059118108232",
+            "name": "Baozinho",
+            "language": "pt-BR",
+            "homeUrl": "https://baozinho.com"
           }
         ]
       },

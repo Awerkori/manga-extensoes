@@ -2432,11 +2432,11 @@
   "eu.kanade.tachiyomi.extension.ar.procomic": {
     "apk": {
       "name": "tachiyomi-ar.procomic-v1.6.10.apk",
-      "sha256": "ffc80f5659ec92305bdf97a645484052a8551c8189a452472b1b90728dba2398"
+      "sha256": "1f9aac4758d627290481565c1dc50f48a5b02aac13f08d855baa25e9896e0cbd"
     },
     "jar": {
       "name": "tachiyomi-ar.procomic-v1.6.10.jar",
-      "sha256": "79195dcee0165ee3aad9dba89a58879e7c8f8f5d78b6cbe8cd851613efbece78"
+      "sha256": "3624640051fd0c58edeb5d7c5f2beca6f99d774386e7e1be298259030d323a10"
     }
   },
   "eu.kanade.tachiyomi.extension.ar.reuomanga": {
@@ -6712,11 +6712,11 @@
   "eu.kanade.tachiyomi.extension.en.templescan": {
     "apk": {
       "name": "tachiyomi-en.templescan-v1.6.69.apk",
-      "sha256": "6a7997ca6c54d981fecc3f63cbffa20eece32cc75824181c78fdb497d8776e2d"
+      "sha256": "058584d23504f0c1ef1ebed390171ec76981f8783b71520719428610214eef04"
     },
     "jar": {
       "name": "tachiyomi-en.templescan-v1.6.69.jar",
-      "sha256": "4f3b35fcc659ca315a1517a604a4d450f8fb3e02780e3e72768b7e660312197d"
+      "sha256": "5400143b42c06b2785036eb31641111092d9576411701e0d34968cb035c90ee7"
     }
   },
   "eu.kanade.tachiyomi.extension.en.thebeginningaftertheendmangaonline": {
@@ -7492,11 +7492,11 @@
   "eu.kanade.tachiyomi.extension.es.catharsisworld": {
     "apk": {
       "name": "tachiyomi-es.catharsisworld-v1.6.7.apk",
-      "sha256": "592c5f3063192bd5923fb3fcfd6c35fe329923023d6c6b5eadfbc8aa0de459c0"
+      "sha256": "91ca27005c31fa4126e15c905fb8331ca655b6a4d24410d3e5d3d3eaad395adf"
     },
     "jar": {
       "name": "tachiyomi-es.catharsisworld-v1.6.7.jar",
-      "sha256": "b54d3e689caad4367aff11637314900693887c68ad92565d9d7debb08c0a2c64"
+      "sha256": "f3fb467e4687498e5dcb613293cd1aa0cb8f2a44428df5f865e58ded598ff0dc"
     }
   },
   "eu.kanade.tachiyomi.extension.es.catmanhwas": {
@@ -12277,6 +12277,16 @@
     "jar": {
       "name": "tachiyomi-pt.bakai-v1.6.21.jar",
       "sha256": "3d38df1a6bc593723a5f07ece13e5edb5cd833b22b54dadbcee0a10245887575"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.pt.baozinho": {
+    "apk": {
+      "name": "tachiyomi-pt.baozinho-v1.6.2.apk",
+      "sha256": "1fe420745d84b0c50d8acdd2239804f6c52395fa26c60fb9bb26d633d9ef5ab5"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.baozinho-v1.6.2.jar",
+      "sha256": "55d53cbfe88567d0ade4efe516d751a6a36e78701f7fd8e4ea7eac8bb1cefded"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.bendezomnihero": {
