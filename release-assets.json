@@ -13171,12 +13171,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mediocretoons": {
     "apk": {
-      "name": "tachiyomi-pt.mediocretoons-v1.6.3.apk",
-      "sha256": "7ed9b70b0eae3638e50e480a1bbdf423d0bf9cf6bee5fab7d02f35d93b0d0477"
+      "name": "tachiyomi-pt.mediocretoons-v1.6.4.apk",
+      "sha256": "bc87172e42f70b7ca735b21b2e33c53ee6c4c810e878613b35a253dab4798a66"
     },
     "jar": {
-      "name": "tachiyomi-pt.mediocretoons-v1.6.3.jar",
-      "sha256": "03f72fa86143650d6e473a049415089ad6d4afbff0b83a52fa866f8a580d87e2"
+      "name": "tachiyomi-pt.mediocretoons-v1.6.4.jar",
+      "sha256": "8b65882344ef37576ca771257a6abea3294d585cf572a868cd8e38873fe9c3fb"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.megahentai": {
