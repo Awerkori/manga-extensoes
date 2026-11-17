@@ -34941,13 +34941,13 @@
         "name": "Nexus Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.nexusmangas",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-pt.nexusmangas-v1.6.3.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/fc459aa/tachiyomi-pt.nexusmangas-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/pt/nexusmangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-pt.nexusmangas-v1.6.3.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/fc459aa/tachiyomi-pt.nexusmangas-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
