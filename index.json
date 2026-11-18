@@ -35331,6 +35331,27 @@
         ]
       },
       {
+        "name": "Reino Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.reinomanga",
+        "resources": {
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/3ad2387/tachiyomi-pt.reinomanga-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/pt/reinomanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/3ad2387/tachiyomi-pt.reinomanga-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "52238947814373175",
+            "name": "Reino Mang\u00e1",
+            "language": "pt-BR",
+            "homeUrl": "https://reinomanga.com.br"
+          }
+        ]
+      },
+      {
         "name": "Loobyt",
         "packageName": "eu.kanade.tachiyomi.extension.pt.remangas",
         "resources": {

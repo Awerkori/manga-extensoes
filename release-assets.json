@@ -13439,6 +13439,16 @@
       "sha256": "1fb1c1c1df708e56b7e1073526ba58a6fed6d4839a06dbbb7a80e8f83e7d8966"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.reinomanga": {
+    "apk": {
+      "name": "tachiyomi-pt.reinomanga-v1.6.1.apk",
+      "sha256": "d3b52d32d562f9f55743ae233906e295308a4db57215f31eae16dfa42a9905b4"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.reinomanga-v1.6.1.jar",
+      "sha256": "ca070c4dc8faaba7f1cda5fbf28618fbfe60eb92c029150ff140705644ccb623"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.remangas": {
     "apk": {
       "name": "tachiyomi-pt.remangas-v1.6.57.apk",
