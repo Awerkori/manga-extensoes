@@ -989,6 +989,16 @@
       "sha256": "784bedd48c073c917cce61dbd81c7e9c869b337f43c941cfba22940ee3143b56"
     }
   },
+  "eu.kanade.tachiyomi.extension.all.mangaleap": {
+    "apk": {
+      "name": "tachiyomi-all.mangaleap-v1.6.1.apk",
+      "sha256": "f5a821f2db719aaee7e2280e34c587516176588dc8769bb5de90d086cf5a3661"
+    },
+    "jar": {
+      "name": "tachiyomi-all.mangaleap-v1.6.1.jar",
+      "sha256": "4fa0cb9ce49a9237b575e15104cbdac09ef8cae1f349fe4013c822d02f8d60ed"
+    }
+  },
   "eu.kanade.tachiyomi.extension.all.mangalotus": {
     "apk": {
       "name": "tachiyomi-all.mangalotus-v1.6.1.apk",
@@ -13021,12 +13031,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mangalivre": {
     "apk": {
-      "name": "tachiyomi-pt.mangalivre-v1.6.95.apk",
-      "sha256": "214184fea9736d4901224d664bb69470cfadfcf9e3107d014b3343e780becbdd"
+      "name": "tachiyomi-pt.mangalivre-v1.6.96.apk",
+      "sha256": "27c5939b58e90110a0c6a02223acad65fec2128ad53d7b89cb16a6a866ea9fcd"
     },
     "jar": {
-      "name": "tachiyomi-pt.mangalivre-v1.6.95.jar",
-      "sha256": "c5504752e6b2413ddc3483d88bf49b67e3df32ec0b9930c6776b5bc1874a2888"
+      "name": "tachiyomi-pt.mangalivre-v1.6.96.jar",
+      "sha256": "a32477356644f37467cc534c6cef29d10c727bf10ba4be8260ea783e5982853e"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangalivreblog": {

@@ -5080,6 +5080,63 @@
         ]
       },
       {
+        "name": "MangaLeap",
+        "packageName": "eu.kanade.tachiyomi.extension.all.mangaleap",
+        "resources": {
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/9eb0e9c/tachiyomi-all.mangaleap-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/all/mangaleap/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/9eb0e9c/tachiyomi-all.mangaleap-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1850855451195255339",
+            "name": "MangaLeap",
+            "language": "en",
+            "homeUrl": "https://www.mangaleap.com"
+          },
+          {
+            "id": "7713157855868354841",
+            "name": "MangaLeap",
+            "language": "fr",
+            "homeUrl": "https://www.mangaleap.com"
+          },
+          {
+            "id": "7875049762007058691",
+            "name": "MangaLeap",
+            "language": "ar",
+            "homeUrl": "https://www.mangaleap.com"
+          },
+          {
+            "id": "6191447573550180748",
+            "name": "MangaLeap",
+            "language": "ru",
+            "homeUrl": "https://www.mangaleap.com"
+          },
+          {
+            "id": "211097791370317040",
+            "name": "MangaLeap",
+            "language": "es",
+            "homeUrl": "https://www.mangaleap.com"
+          },
+          {
+            "id": "3515465367976813547",
+            "name": "MangaLeap",
+            "language": "pt-BR",
+            "homeUrl": "https://www.mangaleap.com"
+          },
+          {
+            "id": "1083335856288287915",
+            "name": "MangaLeap",
+            "language": "th",
+            "homeUrl": "https://www.mangaleap.com"
+          }
+        ]
+      },
+      {
         "name": "Manga Lotus (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangalotus",
         "resources": {
@@ -34416,13 +34473,13 @@
         "name": "ToonLivre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/8b6f0fa/tachiyomi-pt.mangalivre-v1.6.95.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/9eb0e9c/tachiyomi-pt.mangalivre-v1.6.96.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/pt/mangalivre/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/8b6f0fa/tachiyomi-pt.mangalivre-v1.6.95.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/9eb0e9c/tachiyomi-pt.mangalivre-v1.6.96.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106095",
-        "versionName": "1.6.95",
+        "versionCode": "106096",
+        "versionName": "1.6.96",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
