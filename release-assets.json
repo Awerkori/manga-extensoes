@@ -12561,12 +12561,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.fleurblanche": {
     "apk": {
-      "name": "tachiyomi-pt.fleurblanche-v1.6.65.apk",
-      "sha256": "c95aecebcca74972cb804d014ca7f346b6c3b3d31dcedb2b135e2aea6dd6c89c"
+      "name": "tachiyomi-pt.fleurblanche-v1.6.66.apk",
+      "sha256": "91851ad4dd3171dcc9501c54110c89c6292915adcea9be558a683009ed6cc99f"
     },
     "jar": {
-      "name": "tachiyomi-pt.fleurblanche-v1.6.65.jar",
-      "sha256": "51693852c47ba6c03e9a30b508d6794aee1e26769b9a62d4b3f1b1375cedc542"
+      "name": "tachiyomi-pt.fleurblanche-v1.6.66.jar",
+      "sha256": "178d7a8f0f82c7e92adf757eafd39d3649f1dfd4ae380e0af597655e29f87bad"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.fliptru": {
