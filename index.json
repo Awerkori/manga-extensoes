@@ -5959,13 +5959,13 @@
         "name": "MANGA Plus by SHUEISHA",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangaplus",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.mangaplus-v1.6.69.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-all.mangaplus-v1.6.70.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/all/mangaplus/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.mangaplus-v1.6.69.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-all.mangaplus-v1.6.70.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106069",
-        "versionName": "1.6.69",
+        "versionCode": "106070",
+        "versionName": "1.6.70",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -8836,13 +8836,13 @@
         "name": "Webtoons.com",
         "packageName": "eu.kanade.tachiyomi.extension.all.webtoons",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/fa7986f/tachiyomi-all.webtoons-v1.6.3.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-all.webtoons-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/all/webtoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/fa7986f/tachiyomi-all.webtoons-v1.6.3.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-all.webtoons-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11351,27 +11351,6 @@
         ]
       },
       {
-        "name": "NeverScans",
-        "packageName": "eu.kanade.tachiyomi.extension.ar.neverscans",
-        "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-0/tachiyomi-ar.neverscans-v1.6.2.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/ar/neverscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-0/tachiyomi-ar.neverscans-v1.6.2.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "8433210273073845288",
-            "name": "NeverScans",
-            "language": "ar",
-            "homeUrl": "https://neverscans.com"
-          }
-        ]
-      },
-      {
         "name": "Niji Translations",
         "packageName": "eu.kanade.tachiyomi.extension.ar.nijitranslations",
         "resources": {
@@ -12971,13 +12950,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2d4fe3a/tachiyomi-en.comix-v1.6.64.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-en.comix-v1.6.65.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2d4fe3a/tachiyomi-en.comix-v1.6.64.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-en.comix-v1.6.65.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106064",
-        "versionName": "1.6.64",
+        "versionCode": "106065",
+        "versionName": "1.6.65",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -13416,13 +13395,13 @@
         "name": "Dynasty Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.dynasty",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.dynasty-v1.6.2.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-en.dynasty-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/en/dynasty/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.dynasty-v1.6.2.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-en.dynasty-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15369,13 +15348,13 @@
         "name": "KeroScans",
         "packageName": "eu.kanade.tachiyomi.extension.en.keroscans",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.keroscans-v1.6.9.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-en.keroscans-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/en/keroscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-0/tachiyomi-en.keroscans-v1.6.9.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-en.keroscans-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -19174,13 +19153,13 @@
         "name": "Ninko Comics",
         "packageName": "eu.kanade.tachiyomi.extension.en.ninkocomics",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/8869d52/tachiyomi-en.ninkocomics-v1.6.1.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-en.ninkocomics-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/en/ninkocomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/8869d52/tachiyomi-en.ninkocomics-v1.6.1.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-en.ninkocomics-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -28401,27 +28380,6 @@
         ]
       },
       {
-        "name": "OkyyKomik",
-        "packageName": "eu.kanade.tachiyomi.extension.id.okyykomik",
-        "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6125a79/tachiyomi-id.okyykomik-v1.6.21.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/id/okyykomik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6125a79/tachiyomi-id.okyykomik-v1.6.21.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106021",
-        "versionName": "1.6.21",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "8361715798247396418",
-            "name": "OkyyKomik",
-            "language": "id",
-            "homeUrl": "https://www.okyykomik.my.id"
-          }
-        ]
-      },
-      {
         "name": "Omicaso",
         "packageName": "eu.kanade.tachiyomi.extension.id.omicaso",
         "resources": {
@@ -28593,20 +28551,20 @@
         "name": "Ryukomik",
         "packageName": "eu.kanade.tachiyomi.extension.id.ryukomik",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-id.ryukomik-v1.6.2.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-id.ryukomik-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/id/ryukomik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-id.ryukomik-v1.6.2.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-id.ryukomik-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "8514921831398456146",
             "name": "Ryukomik",
             "language": "id",
-            "homeUrl": "https://ryukomik.my.id"
+            "homeUrl": "https://ryukomik.com"
           }
         ]
       },
@@ -31064,13 +31022,13 @@
         "name": "NihonKuni",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangagun",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-ja.mangagun-v1.6.3.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/ja/mangagun/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-ja.mangagun-v1.6.3.jar"
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-ja.mangagun-v1.6.4.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/ja/nihonkuni/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-ja.mangagun-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
