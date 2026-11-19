@@ -33366,13 +33366,13 @@
         "name": "Cerise Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.cerisescans",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.cerisescans-v1.6.65.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/4ef74a2/tachiyomi-pt.cerisescans-v1.6.66.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/pt/cerisescans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.cerisescans-v1.6.65.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/4ef74a2/tachiyomi-pt.cerisescans-v1.6.66.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106065",
-        "versionName": "1.6.65",
+        "versionCode": "106066",
+        "versionName": "1.6.66",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
