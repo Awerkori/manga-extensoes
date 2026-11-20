@@ -1402,13 +1402,13 @@
         "name": "e621",
         "packageName": "eu.kanade.tachiyomi.extension.all.e621",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.e621-v1.6.1.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-all.e621-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/all/e621/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-0/tachiyomi-all.e621-v1.6.1.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-all.e621-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -3318,6 +3318,27 @@
             "name": "INKRUSH",
             "language": "id",
             "homeUrl": "https://inkrush.site"
+          }
+        ]
+      },
+      {
+        "name": "Internet Archive",
+        "packageName": "eu.kanade.tachiyomi.extension.all.internetarchive",
+        "resources": {
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-all.internetarchive-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/all/internetarchive/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-all.internetarchive-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1829328537302010998",
+            "name": "Internet Archive",
+            "language": "all",
+            "homeUrl": "https://archive.org"
           }
         ]
       },
@@ -6208,13 +6229,13 @@
         "name": "Manhuarm",
         "packageName": "eu.kanade.tachiyomi.extension.all.manhuarm",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2d4fe3a/tachiyomi-all.manhuarm-v1.6.3.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-all.manhuarm-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/all/manhuarm/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6125a79/tachiyomi-all.manhuarm-v1.6.3.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-all.manhuarm-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -7405,13 +7426,13 @@
         "name": "Pawchive",
         "packageName": "eu.kanade.tachiyomi.extension.all.pawchive",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6c71bec/tachiyomi-all.pawchive-v1.6.5.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-all.pawchive-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/all/pawchive/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6c71bec/tachiyomi-all.pawchive-v1.6.5.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-all.pawchive-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -12674,6 +12695,27 @@
         ]
       },
       {
+        "name": "Cathexis",
+        "packageName": "eu.kanade.tachiyomi.extension.en.cathexis",
+        "resources": {
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-en.cathexis-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/en/cathexis/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-en.cathexis-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7733083042654784258",
+            "name": "Cathexis",
+            "language": "en",
+            "homeUrl": "https://www.cathexis.world"
+          }
+        ]
+      },
+      {
         "name": "Character Design References",
         "packageName": "eu.kanade.tachiyomi.extension.en.characterdesignreferences",
         "resources": {
@@ -17569,13 +17611,13 @@
         "name": "Manga MTL",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangamtl",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2d4fe3a/tachiyomi-en.mangamtl-v1.6.2.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-en.mangamtl-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/en/mangamtl/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6125a79/tachiyomi-en.mangamtl-v1.6.2.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-en.mangamtl-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -20427,6 +20469,27 @@
             "name": "ReiManga",
             "language": "en",
             "homeUrl": "https://reimanga.net"
+          }
+        ]
+      },
+      {
+        "name": "Reinbach Art",
+        "packageName": "eu.kanade.tachiyomi.extension.en.reinbach",
+        "resources": {
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-en.reinbach-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/en/reinbach/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-en.reinbach-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1672989880638806108",
+            "name": "Reinbach Art",
+            "language": "en",
+            "homeUrl": "https://reinbachart.com"
           }
         ]
       },
@@ -23743,13 +23806,13 @@
         "name": "Kumanga",
         "packageName": "eu.kanade.tachiyomi.extension.es.kumanga",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2d4fe3a/tachiyomi-es.kumanga-v1.6.4.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-es.kumanga-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/es/kumanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6125a79/tachiyomi-es.kumanga-v1.6.4.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-es.kumanga-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27225,6 +27288,27 @@
         ]
       },
       {
+        "name": "Hatsu",
+        "packageName": "eu.kanade.tachiyomi.extension.id.hatsu",
+        "resources": {
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-id.hatsu-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/id/hatsu/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-id.hatsu-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1840452132329278534",
+            "name": "Hatsu",
+            "language": "id",
+            "homeUrl": "https://new.hatsu.to"
+          }
+        ]
+      },
+      {
         "name": "Hentai Crot",
         "packageName": "eu.kanade.tachiyomi.extension.id.hentaicrot",
         "resources": {
@@ -28635,20 +28719,20 @@
         "name": "Shinigami",
         "packageName": "eu.kanade.tachiyomi.extension.id.shinigami",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-id.shinigami-v1.6.86.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-id.shinigami-v1.6.87.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/id/shinigami/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-id.shinigami-v1.6.86.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-id.shinigami-v1.6.87.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106086",
-        "versionName": "1.6.86",
+        "versionCode": "106087",
+        "versionName": "1.6.87",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3411809758861089969",
             "name": "Shinigami",
             "language": "id",
-            "homeUrl": "https://11.shinigami.asia"
+            "homeUrl": "https://s1.shinigami.mx"
           }
         ]
       },
@@ -36289,13 +36373,13 @@
         "name": "Desu",
         "packageName": "eu.kanade.tachiyomi.extension.ru.desu",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/b7d5657/tachiyomi-ru.desu-v1.6.36.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-ru.desu-v1.6.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/ru/desu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.desu-v1.6.36.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-ru.desu-v1.6.37.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106036",
-        "versionName": "1.6.36",
+        "versionCode": "106037",
+        "versionName": "1.6.37",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -36310,13 +36394,13 @@
         "name": "HenChan",
         "packageName": "eu.kanade.tachiyomi.extension.ru.henchan",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.henchan-v1.6.2.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-ru.henchan-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/ru/henchan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.henchan-v1.6.2.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-ru.henchan-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -36394,13 +36478,13 @@
         "name": "MangaChan",
         "packageName": "eu.kanade.tachiyomi.extension.ru.mangachan",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.mangachan-v1.6.1.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-ru.mangachan-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/ru/mangachan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.mangachan-v1.6.1.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-ru.mangachan-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -36822,13 +36906,13 @@
         "name": "YaoiChan",
         "packageName": "eu.kanade.tachiyomi.extension.ru.yaoichan",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.yaoichan-v1.6.1.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-ru.yaoichan-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/ru/yaoichan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-ru.yaoichan-v1.6.1.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-ru.yaoichan-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -40249,20 +40333,20 @@
         "name": "DamCoNuong",
         "packageName": "eu.kanade.tachiyomi.extension.vi.damconuong",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/371be83/tachiyomi-vi.damconuong-v1.6.21.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-vi.damconuong-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/vi/damconuong/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/371be83/tachiyomi-vi.damconuong-v1.6.21.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-vi.damconuong-v1.6.22.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106021",
-        "versionName": "1.6.21",
+        "versionCode": "106022",
+        "versionName": "1.6.22",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "2680345917627448572",
             "name": "DamCoNuong",
             "language": "vi",
-            "homeUrl": "https://damconuong.cool"
+            "homeUrl": "https://damconuong.tech"
           }
         ]
       },
