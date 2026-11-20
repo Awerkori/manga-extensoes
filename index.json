@@ -8836,13 +8836,13 @@
         "name": "Webtoons.com",
         "packageName": "eu.kanade.tachiyomi.extension.all.webtoons",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-all.webtoons-v1.6.4.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-all.webtoons-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/all/webtoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2719f89/tachiyomi-all.webtoons-v1.6.4.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-all.webtoons-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22141,13 +22141,13 @@
         "name": "WebtoonLib",
         "packageName": "eu.kanade.tachiyomi.extension.en.webtoonlib",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2d4fe3a/tachiyomi-en.webtoonlib-v1.6.1.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-en.webtoonlib-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/en/webtoonlib/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/2d4fe3a/tachiyomi-en.webtoonlib-v1.6.1.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-en.webtoonlib-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -23722,13 +23722,13 @@
         "name": "Komiwa",
         "packageName": "eu.kanade.tachiyomi.extension.es.komiwa",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6125a79/tachiyomi-es.komiwa-v1.6.3.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-es.komiwa-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/es/komiwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6125a79/tachiyomi-es.komiwa-v1.6.3.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-es.komiwa-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24314,13 +24314,13 @@
         "name": "ManhwaShot",
         "packageName": "eu.kanade.tachiyomi.extension.es.manhwashot",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/8869d52/tachiyomi-es.manhwashot-v1.6.1.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-es.manhwashot-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/es/manhwashot/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/8869d52/tachiyomi-es.manhwashot-v1.6.1.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-es.manhwashot-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27291,13 +27291,13 @@
         "name": "ReYume",
         "packageName": "eu.kanade.tachiyomi.extension.id.inazumanga",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6125a79/tachiyomi-id.inazumanga-v1.6.48.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-id.inazumanga-v1.6.49.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/id/inazumanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6125a79/tachiyomi-id.inazumanga-v1.6.48.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-id.inazumanga-v1.6.49.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106048",
-        "versionName": "1.6.48",
+        "versionCode": "106049",
+        "versionName": "1.6.49",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -27858,13 +27858,13 @@
         "name": "LepoyTL",
         "packageName": "eu.kanade.tachiyomi.extension.id.lepoytl",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6125a79/tachiyomi-id.lepoytl-v1.6.21.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-id.lepoytl-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/id/lepoytl/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6125a79/tachiyomi-id.lepoytl-v1.6.21.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-id.lepoytl-v1.6.22.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106021",
-        "versionName": "1.6.21",
+        "versionCode": "106022",
+        "versionName": "1.6.22",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -38943,13 +38943,13 @@
         "name": "Manga-TR",
         "packageName": "eu.kanade.tachiyomi.extension.tr.mangatr",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/494c90f/tachiyomi-tr.mangatr-v1.6.26.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-tr.mangatr-v1.6.27.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/tr/mangatr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/494c90f/tachiyomi-tr.mangatr-v1.6.26.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-tr.mangatr-v1.6.27.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106026",
-        "versionName": "1.6.26",
+        "versionCode": "106027",
+        "versionName": "1.6.27",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -40354,20 +40354,20 @@
         "name": "Dua Leo Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0d36544/tachiyomi-vi.dualeotruyen-v1.6.37.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.dualeotruyen-v1.6.38.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/vi/dualeotruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0d36544/tachiyomi-vi.dualeotruyen-v1.6.37.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.dualeotruyen-v1.6.38.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106037",
-        "versionName": "1.6.37",
+        "versionCode": "106038",
+        "versionName": "1.6.38",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "1039830224122325226",
             "name": "D\u01b0a Leo Truy\u1ec7n",
             "language": "vi",
-            "homeUrl": "https://dualeotruyenjv.com"
+            "homeUrl": "https://dualeotruyenkf.com"
           }
         ]
       },
@@ -41063,20 +41063,20 @@
         "name": "NavyTeam",
         "packageName": "eu.kanade.tachiyomi.extension.vi.navyteam",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.navyteam-v1.6.2.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.navyteam-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/vi/navyteam/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.navyteam-v1.6.2.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.navyteam-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "2905603390871515946",
             "name": "NavyTeam",
             "language": "vi",
-            "homeUrl": "https://navyteamz.com"
+            "homeUrl": "https://navyteams.com"
           }
         ]
       },
@@ -41105,20 +41105,20 @@
         "name": "NetTruyenS (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyens",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.nettruyens-v1.6.3.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.nettruyens-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/vi/nettruyens/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.nettruyens-v1.6.3.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.nettruyens-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6085559443545258070",
             "name": "NetTruyenS (unoriginal)",
             "language": "vi",
-            "homeUrl": "https://nettruyen15s.com"
+            "homeUrl": "https://nettruyen16s.com"
           }
         ]
       },
@@ -41567,20 +41567,20 @@
         "name": "Top Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.toptruyen",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0d36544/tachiyomi-vi.toptruyen-v1.6.52.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.toptruyen-v1.6.53.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/vi/toptruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0d36544/tachiyomi-vi.toptruyen-v1.6.52.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.toptruyen-v1.6.53.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106052",
-        "versionName": "1.6.52",
+        "versionCode": "106053",
+        "versionName": "1.6.53",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "1166901607721102706",
             "name": "Top Truyen",
             "language": "vi",
-            "homeUrl": "https://www.toptruyenzone14.com"
+            "homeUrl": "https://www.toptruyenzone15.com"
           }
         ]
       },
@@ -41945,20 +41945,20 @@
         "name": "VietManhwa",
         "packageName": "eu.kanade.tachiyomi.extension.vi.vietmanhwa",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/8869d52/tachiyomi-vi.vietmanhwa-v1.6.1.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.vietmanhwa-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/vi/vietmanhwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/8869d52/tachiyomi-vi.vietmanhwa-v1.6.1.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.vietmanhwa-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "242689715978074590",
             "name": "VietManhwa",
             "language": "vi",
-            "homeUrl": "https://vietmanhwa.com"
+            "homeUrl": "https://vietmanhwa.org"
           }
         ]
       },
@@ -41991,20 +41991,20 @@
         "name": "VinaHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.vinahentai",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/371be83/tachiyomi-vi.vinahentai-v1.6.23.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.vinahentai-v1.6.24.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/vi/vinahentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/371be83/tachiyomi-vi.vinahentai-v1.6.23.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.vinahentai-v1.6.24.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106023",
-        "versionName": "1.6.23",
+        "versionCode": "106024",
+        "versionName": "1.6.24",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "4572372176917567711",
             "name": "VinaHentai",
             "language": "vi",
-            "homeUrl": "https://vinahentai.bio"
+            "homeUrl": "https://vinahentai.best"
           }
         ]
       },
@@ -42075,20 +42075,20 @@
         "name": "ZetTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.zettruyen",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.zettruyen-v1.6.18.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.zettruyen-v1.6.19.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/vi/zettruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-vi.zettruyen-v1.6.18.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/d766e54/tachiyomi-vi.zettruyen-v1.6.19.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106018",
-        "versionName": "1.6.18",
+        "versionCode": "106019",
+        "versionName": "1.6.19",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "893747327087652119",
             "name": "ZetTruyen",
             "language": "vi",
-            "homeUrl": "https://www.zettruyen5.com"
+            "homeUrl": "https://www.zettruyen6.com"
           }
         ]
       },
