@@ -28047,20 +28047,20 @@
         "name": "Ikiru",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangatale",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/8a2a1c6/tachiyomi-id.mangatale-v1.6.64.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/3f3fe19/tachiyomi-id.mangatale-v1.6.65.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/id/ikiru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/8a2a1c6/tachiyomi-id.mangatale-v1.6.64.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/3f3fe19/tachiyomi-id.mangatale-v1.6.65.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106064",
-        "versionName": "1.6.64",
+        "versionCode": "106065",
+        "versionName": "1.6.65",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2471382203854600486",
             "name": "Ikiru",
             "language": "id",
-            "homeUrl": "https://10.ikiru.wtf"
+            "homeUrl": "https://11.ikiru.wtf"
           }
         ]
       },
