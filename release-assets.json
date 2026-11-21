@@ -1839,6 +1839,16 @@
       "sha256": "f14ee99cea072bf60d801e9214472333d84419c72c2a2c2092c54137a58094df"
     }
   },
+  "eu.kanade.tachiyomi.extension.all.yaoihavenreborn": {
+    "apk": {
+      "name": "tachiyomi-all.yaoihavenreborn-v1.6.1.apk",
+      "sha256": "dd4570fd8f77aefb7e9e30338da413c8b6450218c07352e78cd9e566f77b2711"
+    },
+    "jar": {
+      "name": "tachiyomi-all.yaoihavenreborn-v1.6.1.jar",
+      "sha256": "c090718f5faec81e8455fa8f6c6904f034947701e0764f2077080c756fdf418f"
+    }
+  },
   "eu.kanade.tachiyomi.extension.all.yaoimangaonline": {
     "apk": {
       "name": "tachiyomi-all.yaoimangaonline-v1.6.3.apk",

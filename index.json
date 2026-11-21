@@ -10018,6 +10018,27 @@
         ]
       },
       {
+        "name": "Yaoi Haven Reborn",
+        "packageName": "eu.kanade.tachiyomi.extension.all.yaoihavenreborn",
+        "resources": {
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/ab9ff95/tachiyomi-all.yaoihavenreborn-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/all/yaoihavenreborn/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/ab9ff95/tachiyomi-all.yaoihavenreborn-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "538861751925275125",
+            "name": "Yaoi Haven Reborn",
+            "language": "all",
+            "homeUrl": "https://yaoihavenreborn.com"
+          }
+        ]
+      },
+      {
         "name": "Yaoi Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.all.yaoimangaonline",
         "resources": {
