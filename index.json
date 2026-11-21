@@ -34899,20 +34899,20 @@
         "name": "Mediocre Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/96cb7f2/tachiyomi-pt.mediocretoons-v1.6.5.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6b9b8a8/tachiyomi-pt.mediocretoons-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/pt/mediocretoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/96cb7f2/tachiyomi-pt.mediocretoons-v1.6.5.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/6b9b8a8/tachiyomi-pt.mediocretoons-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6774658952974641159",
             "name": "Mediocre Toons",
             "language": "pt-BR",
-            "homeUrl": "https://mediocrescan.com"
+            "homeUrl": "https://laranjatoons.com"
           }
         ]
       },
