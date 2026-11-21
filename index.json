@@ -33597,13 +33597,13 @@
         "name": "Fliptru",
         "packageName": "eu.kanade.tachiyomi.extension.pt.fliptru",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.fliptru-v1.6.5.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/eb0942d/tachiyomi-pt.fliptru-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/pt/fliptru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.fliptru-v1.6.5.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/eb0942d/tachiyomi-pt.fliptru-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

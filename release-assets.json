@@ -12611,12 +12611,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.fliptru": {
     "apk": {
-      "name": "tachiyomi-pt.fliptru-v1.6.5.apk",
-      "sha256": "e567ccddec330258bcd47eabe336cae2a1eadaad8284e48a9b13012a718ac4c7"
+      "name": "tachiyomi-pt.fliptru-v1.6.6.apk",
+      "sha256": "0dc1c6f951ca49f1df4f974579d646970eb1875ab6c07455b953b38075b138a7"
     },
     "jar": {
-      "name": "tachiyomi-pt.fliptru-v1.6.5.jar",
-      "sha256": "d02c90a8e62cc1afc404f7c8cb1d73b00ac91b6ff3990d7bae6d770989a32b93"
+      "name": "tachiyomi-pt.fliptru-v1.6.6.jar",
+      "sha256": "a62e49720c6a2f5825c0eecf4515356e8dfc30ba027aa7876d5029314053fdcb"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.flowermanga": {
