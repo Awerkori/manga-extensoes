@@ -1,138 +1,121 @@
-# Project Nox · Extensões de Mangá
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/brand/nox-emblem.webp" alt="Emblema oficial do Project Nox" width="96" />
+</p>
 
-Repositório oficial de distribuição e catálogo compilado de extensões de mangá do **Project Nox** para **Mihon e forks**.
+<h1 align="center">Project Nox · Extensões de Mangá</h1>
 
----
+<p align="center">
+  Catálogo oficial de extensões de mangá para <strong>Mihon e aplicativos compatíveis</strong>.
+</p>
 
-> [!TIP]
-> **Distribuição oficial 100% gratuita**
->
-> O Project Nox não cobra pelo download, instalação ou atualização das suas extensões de mangá e anime.
->
-> Caso alguém solicite pagamento alegando representar o Project Nox ou afirmando que o acesso às extensões oficiais exige uma taxa, desconfie e consulte nossos repositórios oficiais.
->
-> Distribuições independentes podem exercer os direitos previstos nas licenças de software livre aplicáveis, inclusive redistribuição comercial legítima, desde que cumpram suas obrigações e não se apresentem falsamente como canais oficiais.
+<p align="center">
+  <strong>Distribuição oficial 100% gratuita</strong> · Não pague por instalações ou atualizações oferecidas como serviço oficial do projeto.
+</p>
 
----
+## Como instalar
 
-## 🎯 Para quem é este repositório?
+### Opção 1: Instalação automática (Android)
 
-Este repositório é voltado para **leitores e usuários finais** que desejam instalar, explorar e manter atualizadas as extensões de leitura de mangás, manhwas, manhuas e quadrinhos diretamente em seus aplicativos móveis compatíveis com o ecossistema **Mihon e forks**.
+O GitHub bloqueia links que abrem aplicativos diretamente a partir do README. Para adicionar o catálogo com um toque pelo navegador do seu celular Android, acesse a página oficial de instalação:
 
-> [!NOTE]
-> Se você é desenvolvedor e procura o **código-fonte em Kotlin** das extensões ou deseja contribuir tecnicamente com correções, acesse o repositório irmão de desenvolvimento:  
-> ➡️ [**Project Nox · Código-fonte das Extensões de Mangá**](https://github.com/ProjectNox-org/manga-fonte-extensoes)
+[**Adicionar catálogo ao Mihon pelo portal oficial**](https://projectnox-org.github.io/extensoes/#mihon)
 
----
+Se o aplicativo não abrir automaticamente ou o seu fork não reconhecer o link, use a instalação manual abaixo.
 
-## 📲 Como Adicionar ao Mihon e forks
+### Opção 2: Instalação manual (copiar e colar)
 
-### Método 1: Instalação Automática (Recomendado)
-Toque no link abaixo diretamente pelo navegador do seu celular Android para registrar o repositório de forma automática no aplicativo:
+1. Abra o **Mihon** (ou fork compatível) e vá em **Mais** → **Configurações** → **Navegar** → **Repositórios de extensões** *(em alguns forks, acesse **Configurações → Navegar**)*.
+2. Toque em **Adicionar** (`+`).
+3. Copie e cole o endereço abaixo:
 
-👉 [**Adicionar Repositório Automaticamente**](tachiyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2FProjectNox-org%2Fmanga-extensoes%2Frepo%2Findex.min.json)
-
----
-
-### Método 2: Instalação Manual
-
-1. No seu aplicativo (**Mihon e forks**), acesse **Mais** (ou Configurações) → **Configurações** → **Navegar** → **Repositórios de extensões**.
-2. Toque no botão de adicionar (`+`).
-3. Escolha e cole URL do catálogo desejado:
-
-**Protobuf (`index.pb`) — formato principal, moderno e recomendado**
-```
+```text
 https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.pb
 ```
 
-**JSON (`index.json`) — formato legado**
-```
-https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.json
-```
+4. Confirme e volte à aba **Navegar** → **Extensões** para instalar as fontes desejadas.
 
-**JSON compacto (`index.min.json`) — formato legado compacto**
-```
-https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.min.json
-```
+<details>
+<summary>Meu aplicativo deu erro ao importar <code>index.pb</code> (formatos JSON para clientes antigos ou forks)</summary>
 
-Os dois formatos legados continuam oficialmente suportados, mantidos e atualizados automaticamente junto com o Protobuf, para preservar compatibilidade com clientes antigos e forks.
+O arquivo `index.pb` (Protobuf) é o padrão atual. Caso seu aplicativo seja antigo ou exija JSON, use uma das URLs abaixo (mantidas atualizadas automaticamente):
 
-> [!IMPORTANT]
-> **Migração de usuários antigos (`Awerkori` → `ProjectNox-org`):** Os endereços antigos sob `Awerkori/manga-extensoes` continuam ativos via redirecionamento do GitHub. Caso deseje trocar para a URL oficial da organização, **adicione o repositório `ProjectNox-org` antes de remover o antigo** (ou reinicie o aplicativo caso utilize um fork afetado e as extensões apareçam como *Obsoleta*). As assinaturas dos APKs não foram alteradas.
+- **JSON compacto** *(também usado no link automático `tachiyomi://`)*:
+  ```text
+  https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.min.json
+  ```
+- **JSON completo**:
+  ```text
+  https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.json
+  ```
 
----
+</details>
 
-### Método 3: Download Direto de APKs
-Caso prefira instalar uma extensão específica manualmente:
-- Acesse as [Releases](https://github.com/ProjectNox-org/manga-extensoes/releases) deste repositório para baixar o arquivo `.apk` desejado e instalá-lo no Android (a integridade criptográfica dos pacotes pode ser conferida no manifesto `release-assets.json`).
+<details>
+<summary>Alternativa: baixar o APK de uma extensão individual</summary>
 
----
+Um `.apk` de extensão adiciona apenas uma fonte específica sem precisar registrar o catálogo inteiro. Para utilizá-lo, já é necessário ter o **Mihon** (ou aplicativo compatível) instalado no Android — instalar apenas a extensão não cria um leitor independente.
 
-## ⚙️ Como Funciona este Repositório
+- Baixe somente pelos canais oficiais em [**Releases**](https://github.com/ProjectNox-org/manga-extensoes/releases) (os hashes SHA-256 dos pacotes estão disponíveis em [`release-assets.json`](release-assets.json)).
 
-- **Automação Completa:** Os arquivos desta branch (`repo`) são gerados e mantidos por pipelines automatizados acionados a partir de [`manga-fonte-extensoes`](https://github.com/ProjectNox-org/manga-fonte-extensoes).
-- **Catálogo Otimizado (Protobuf v2):** O arquivo binário `index.pb` provê leitura ultrarrápida, serialização compacta e baixo consumo de dados móveis no seu aplicativo.
-- **Assinatura e Segurança:** Todos os APKs disponibilizados são assinados digitalmente com chaves criptográficas consistentes, garantindo integridade e atualizações transparentes.
+</details>
 
----
+## O que são as extensões?
 
-## 🛠️ Suporte e Pedidos de Extensões
+- **O catálogo é apenas a lista de fontes:** adicionar o repositório permite que o aplicativo encontre as extensões do Project Nox, mas não instala nenhuma fonte automaticamente.
+- **Você escolhe o que instalar:** após adicionar o catálogo, abra a aba **Extensões** no aplicativo, procure as fontes desejadas e toque em instalar.
+- **Conteúdo de terceiros:** cada extensão conecta o aplicativo diretamente a sites públicos de mangás, manhwas e quadrinhos.
 
-Encontrou uma fonte de mangá que parou de funcionar ou deseja sugerir uma nova scan/site?
+## Atualizações e migração
 
-- 🎫 **Abrir solicitação oficial:** [Project Nox · Central de Pedidos](https://github.com/ProjectNox-org/project-nox-requests)
-- 📊 **Acompanhar status em tempo real:** [Project Nox · Tracker](https://projectnox-org.github.io/project-nox-tracker/)
-- 🌐 **Plataforma Web (código-fonte):** [Project Nox · Plataforma Web de Mangá](https://github.com/ProjectNox-org/project-nox-manga)
+Novas versões das extensões e adições ao catálogo aparecem diretamente na aba **Extensões** do aplicativo sempre que você atualizar a lista.
 
----
+<details>
+<summary>Já utilizava o repositório antigo (<code>Awerkori</code>)?</summary>
 
-## 🔗 Projetos Relacionados
+Os endereços antigos sob `Awerkori/manga-extensoes` continuam ativos via redirecionamento do GitHub e as assinaturas dos APKs não foram alteradas.
 
-- 💻 [**Project Nox · Código-fonte das Extensões de Mangá**](https://github.com/ProjectNox-org/manga-fonte-extensoes) — Código em Kotlin, automação e desenvolvimento.
-- 🎬 [**Project Nox · Extensões de Anime**](https://github.com/ProjectNox-org/anime-extensoes) — Catálogo de extensões de vídeo para Aniyomi e forks.
-- 💻 [**Project Nox · Código-fonte das Extensões de Anime**](https://github.com/ProjectNox-org/anime-fonte-extensoes) — Código-fonte e extractors de streaming.
-- ⚙️ [**Project Nox · Importer**](https://github.com/ProjectNox-org/project-nox-importer) — Ingestão contínua de catálogo para a plataforma web.
-- 📊 [**Project Nox · Tracker**](https://projectnox-org.github.io/project-nox-tracker/) — Dashboard público de status.
+Para migrar para a URL oficial da organização:
 
----
+1. **Adicione o repositório `ProjectNox-org` antes de remover o antigo.**
+2. Caso utilize um fork afetado e alguma extensão apareça como *Obsoleta*, reinicie o aplicativo para recarregar a lista.
 
-## 🌟 Créditos e Reconhecimento
+</details>
 
-- **Felipe GFA** ([@FelipeGFA](https://github.com/FelipeGFA)): Responsável pela estruturação do ecossistema de compilação, engenharia dos scripts de catalogação em Protobuf v2 e suporte primordial às fontes brasileiras.
-- **Keiyoushi** ([@keiyoushi](https://github.com/keiyoushi)): Especificação de arquitetura de catálogos v2 e ecossistema upstream de referência.
-- Comunidade open-source de leitores e desenvolvedores independentes.
+## Suporte
 
----
+Encontrou uma fonte que parou de carregar capítulos ou quer pedir uma nova extensão?
 
-## ⚖️ Licença e Copyright
+- **Central de Pedidos ([`project-nox-requests`](https://github.com/ProjectNox-org/project-nox-requests)):** abrir pedidos de novas extensões e relatar problemas.
+- **Tracker ([Project Nox Tracker](https://projectnox-org.github.io/project-nox-tracker/)):** consultar e acompanhar o status das solicitações.
 
-As contribuições originais do Project Nox e a organização do catálogo combinado são disponibilizadas sob os termos da **GNU Affero General Public License versão 3.0** (`AGPL-3.0-only`). Componentes herdados dos projetos Keiyoushi, Tachiyomi, Felipe GFA e demais autores upstream mantêm integralmente seus respectivos direitos autorais e licenças originais (notadamente Apache-2.0). A inclusão de código em um trabalho combinado compatível não transfere a titularidade intelectual ao Project Nox, não cancela as obrigações de atribuição da Apache 2.0, e o Project Nox não declara nem reivindica direitos exclusivos sobre código criado por terceiros. O regime aplicável a cada pacote binário respeita os componentes nele incorporados e as licenças correspondentes. Consulte o arquivo [LICENSE](LICENSE) para obter o texto integral inalterado da licença e o arquivo [NOTICE](NOTICE) para o inventário de autoria e termos legais.
+## Informações técnicas
 
-```
+- **Código-fonte e compilação:** os pacotes desta branch (`repo`) são compilados, assinados digitalmente com chaves consistentes e publicados automaticamente a partir de [`manga-fonte-extensoes`](https://github.com/ProjectNox-org/manga-fonte-extensoes).
+- **Arquivos publicados:** [`index.pb`](https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.pb) (Protobuf v2 principal), [`index.json`](https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.json), [`index.min.json`](https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.min.json), [`repo.json`](https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/repo.json) e [`release-assets.json`](https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/release-assets.json) (verificação SHA-256 dos APKs nas Releases).
+
+## Projetos relacionados
+
+- [**Project Nox · Código-fonte das Extensões de Mangá**](https://github.com/ProjectNox-org/manga-fonte-extensoes) — Código em Kotlin, automação de build e desenvolvimento.
+- [**Project Nox · Extensões de Anime**](https://github.com/ProjectNox-org/anime-extensoes) — Catálogo oficial de extensões de anime para Aniyomi e forks.
+- [**Project Nox · Código-fonte das Extensões de Anime**](https://github.com/ProjectNox-org/anime-fonte-extensoes) — Código-fonte e extractors das extensões de anime.
+
+## Créditos
+
+- **Felipe GFA** ([@FelipeGFA](https://github.com/FelipeGFA)): estruturação do ecossistema de compilação, engenharia dos scripts de catalogação em Protobuf v2 e suporte às fontes brasileiras.
+- **Keiyoushi** ([@keiyoushi](https://github.com/keiyoushi)): especificação da arquitetura de catálogos v2 e ecossistema upstream de referência.
+- **Javier Tomás / Tachiyomi** e demais colaboradores históricos do ecossistema open-source e do Project Nox.
+
+## Licenciamento e informações legais
+
+- **Código-fonte correspondente (AGPLv3, Seção 6):** o código-fonte, receitas Gradle e workflows dos APKs distribuídos aqui estão disponíveis em [`ProjectNox-org/manga-fonte-extensoes`](https://github.com/ProjectNox-org/manga-fonte-extensoes). Extensões mantidas ativamente pelo Project Nox possuem rastreabilidade entre código, scripts e binários; pacotes históricos incorporados do ecossistema Keiyoushi mantêm rastreabilidade por pacote, versão e árvore upstream, sem declarar rastreabilidade universal a commits individuais para binários legados sem evidência direta.
+- **Licença dos pacotes e do catálogo:** contribuições originais do Project Nox e a organização do catálogo combinado seguem a **GNU Affero General Public License v3.0** (`AGPL-3.0-only`, [`LICENSE`](LICENSE)). Componentes herdados de Keiyoushi, Tachiyomi, Felipe GFA e demais autores mantêm integralmente seus copyrights e licenças originais (notadamente **Apache License 2.0**), sem reivindicação de exclusividade pelo Project Nox sobre código de terceiros. O regime jurídico de cada APK observa os componentes efetivamente incorporados.
+- **Gratuidade e redistribuição:** o Project Nox distribui oficialmente seus catálogos e APKs de forma gratuita, preservando as liberdades de redistribuição previstas na GNU AGPLv3 e na Apache 2.0.
+- **Rede, marca e isenção de responsabilidade:** nos termos da Seção 13 da AGPLv3, quem operar versão modificada com interação remota de rede deve disponibilizar o Código-Fonte Correspondente; conforme a Seção 7(e) da AGPLv3, a licença de software não autoriza usar os nomes ou marcas "Project Nox", "Awerkori" ou de terceiros para sugerir endosso oficial. O Project Nox fornece apenas software livre de integração e não hospeda nem distribui conteúdos de terceiros.
+
+Consulte [`LICENSE`](LICENSE) e [`NOTICE`](NOTICE) para o texto integral da licença e o inventário completo de atribuições.
+
+```text
 Copyright (C) Felipe GFA
 Copyright (C) Keiyoushi Contributors
 Copyright (C) 2026 Project Nox Contributors & Awerkori
 ```
-
-### 📦 Código-Fonte Correspondente e Rastreabilidade (AGPLv3 Seção 6)
-Em cumprimento à Seção 6 da GNU AGPLv3, o código-fonte correspondente aos APKs distribuídos neste repositório está publicamente disponível em:  
-➡️ [**Project Nox · Código-fonte das Extensões de Mangá**](https://github.com/ProjectNox-org/manga-fonte-extensoes)
-
-- **Instruções e Receitas de Compilação:** Os scripts Gradle, configurações de build e pipelines de CI/CD estão mantidos de forma auditável e transparente no repositório de desenvolvimento irmão.
-- **Rastreabilidade e Integridade:** Cada pacote possui identificador único (`pkg`), versão (`version`), código de versão (`code`) e verificação de integridade criptográfica SHA-256 no catálogo `release-assets.json`.
-- **Ressalva de Proveniência Forense:** Extensões mantidas ativamente pelo Project Nox contam com rastreabilidade completa entre código-fonte, scripts e binários. Para os pacotes históricos incorporados do ecossistema upstream Keiyoushi, a rastreabilidade é assegurada por pacote, versão e árvore de código upstream, não se declarando rastreabilidade universal a commits individuais para binários pré-existentes sem evidência histórica direta.
-- **Componentes de Terceiros, Atribuição e Regime dos APKs:** Os componentes herdados mantêm seus avisos de copyright e obrigações de atribuição sob a Apache License 2.0. As contribuições originais desenvolvidas pelo Project Nox são licenciadas sob a GNU AGPL versão 3.0. O regime de cada pacote binário (.apk) observa as licenças de seus respectivos componentes, sem declaração de exclusividade sobre código de terceiros.
-
-### 🌐 Política Oficial de Distribuição
-- **Gratuidade Oficial:** O Project Nox distribui oficialmente todos os seus APKs e catálogos de forma 100% gratuita para a comunidade.
-- **Redistribuição Comunitária:** Incentivamos o compartilhamento comunitário e o espelhamento livre dos pacotes, sempre respeitando os créditos de autoria e os termos das licenças.
-- **Liberdades sob a AGPL 3.0:** Em estrita conformidade com a GNU AGPLv3 (e Apache 2.0), não é imposta nenhuma cláusula proibindo redistribuição comercial por terceiros. A gratuidade oficial é prática direta do Project Nox, preservando integralmente os direitos legais de redistribuição garantidos pela licença.
-
-### 📌 Interação Remota de Rede (GNU AGPLv3 Seção 13)
-O Project Nox adota oficialmente a licença **GNU AGPL versão 3.0**. Em estrita conformidade com a Seção 13 da AGPLv3, caso uma versão modificada deste software seja operada em servidores ou instâncias acessíveis através de uma rede de computadores com interação remota de usuários, o operador deve oferecer a todos esses usuários a oportunidade de obter o Código-Fonte Correspondente (Corresponding Source) da versão modificada em execução, sem custos e através de meio habitual de disponibilização de software em rede.
-
-### 🛡️ Proteção de Identidade e Marca (AGPLv3 Seção 7(e))
-A concessão da licença de software livre refere-se estritamente ao código e aos binários. Ela **não concede** autorização ou licença de uso da marca, do nome "Project Nox" ou de logotipos oficiais para insinuar endosso, homologação ou representação oficial do projeto sem consentimento prévio por escrito.
-
-### ⚖️ Isenção de Responsabilidade
-O **Project Nox** disponibiliza apenas ferramentas de software livre para integração e leitura. Não controlamos, não hospedamos e não comercializamos arquivos de imagem de terceiros. Todo o conteúdo carregado através das extensões é fornecido diretamente pelas fontes externas públicas.
