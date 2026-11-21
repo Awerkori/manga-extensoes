@@ -24,8 +24,8 @@ Se o aplicativo não abrir automaticamente ou o seu fork não reconhecer o link,
 
 ### Opção 2: Instalação manual (copiar e colar)
 
-1. Abra o **Mihon** (ou fork compatível) e vá em **Mais** → **Configurações** → **Navegar** → **Repositórios de extensões** *(em alguns forks, acesse **Configurações → Navegar**)*.
-2. Toque em **Adicionar** (`+`).
+1. Abra o **Mihon** (ou fork compatível) e vá em **Mais** → **Configurações** → **Navegar** → **Loja de extensões** *(em versões anteriores ou forks, pode aparecer como **Repositórios de extensões** ou diretamente em **Configurações → Navegar**)*.
+2. Toque em **Adicionar loja de extensões** (ou **Adicionar** / `+`).
 3. Copie e cole o endereço abaixo:
 
 ```text
@@ -35,18 +35,19 @@ https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.pb
 4. Confirme e volte à aba **Navegar** → **Extensões** para instalar as fontes desejadas.
 
 <details>
-<summary>Meu aplicativo deu erro ao importar <code>index.pb</code> (formatos JSON para clientes antigos ou forks)</summary>
+<summary>Usando versão antiga ou fork incompatível com <code>index.pb</code>? Use <code>index.min.json</code></summary>
 
-O arquivo `index.pb` (Protobuf) é o padrão atual. Caso seu aplicativo seja antigo ou exija JSON, use uma das URLs abaixo (mantidas atualizadas automaticamente):
+O arquivo `index.pb` (Protobuf) é o padrão atual do Mihon. Caso o aplicativo exiba erro ao importar `index.pb`, utilize a URL compacta em JSON (mantida sincronizada e convertida automaticamente em versões atuais):
 
-- **JSON compacto** *(também usado no link automático `tachiyomi://`)*:
-  ```text
-  https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.min.json
-  ```
-- **JSON completo**:
-  ```text
-  https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.json
-  ```
+```text
+https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.min.json
+```
+
+Clientes modernos também aceitam o JSON v2 completo:
+
+```text
+https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.json
+```
 
 </details>
 
@@ -77,7 +78,7 @@ Os endereços antigos sob `Awerkori/manga-extensoes` continuam ativos via redire
 Para migrar para a URL oficial da organização:
 
 1. **Adicione o repositório `ProjectNox-org` antes de remover o antigo.**
-2. Caso utilize um fork afetado e alguma extensão apareça como *Obsoleta*, reinicie o aplicativo para recarregar a lista.
+2. Caso alguma extensão apareça como *Órfão* (ou *Obsoleto* em alguns forks), reinicie o aplicativo para recarregar a lista.
 
 </details>
 
