@@ -35,15 +35,15 @@ https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.pb
 4. Confirme e volte à aba **Navegar** → **Extensões** para instalar as fontes desejadas.
 
 <details>
-<summary>Usando versão antiga ou fork incompatível com <code>index.pb</code>? Use <code>index.min.json</code></summary>
+<summary>Seu aplicativo não aceita <code>index.pb</code>? Use <code>index.min.json</code></summary>
 
-O arquivo `index.pb` (Protobuf) é o padrão atual do Mihon. Caso o aplicativo exiba erro ao importar `index.pb`, utilize a URL compacta em JSON (mantida sincronizada e convertida automaticamente em versões atuais):
+Alguns aplicativos podem exigir o formato `index.min.json` para adicionar o catálogo. Se o endereço principal não funcionar, copie e utilize a URL abaixo:
 
 ```text
 https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.min.json
 ```
 
-Clientes modernos também aceitam o JSON v2 completo:
+Caso o seu aplicativo utilize o formato JSON v2 completo, também há suporte a `index.json`:
 
 ```text
 https://raw.githubusercontent.com/ProjectNox-org/manga-extensoes/repo/index.json
