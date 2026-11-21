@@ -34773,13 +34773,13 @@
         "name": "Manga Stop",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangastop",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-pt.mangastop-v1.6.48.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/bc8394c/tachiyomi-pt.mangastop-v1.6.49.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/pt/mangastop/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-pt.mangastop-v1.6.48.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/bc8394c/tachiyomi-pt.mangastop-v1.6.49.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106048",
-        "versionName": "1.6.48",
+        "versionCode": "106049",
+        "versionName": "1.6.49",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -35361,13 +35361,13 @@
         "name": "Kitsune Yako",
         "packageName": "eu.kanade.tachiyomi.extension.pt.pointzerotoons",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/724ef9a/tachiyomi-pt.pointzerotoons-v1.6.7.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/bc8394c/tachiyomi-pt.pointzerotoons-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/pt/pointzerotoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/724ef9a/tachiyomi-pt.pointzerotoons-v1.6.7.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/bc8394c/tachiyomi-pt.pointzerotoons-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

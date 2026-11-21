@@ -13171,12 +13171,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mangastop": {
     "apk": {
-      "name": "tachiyomi-pt.mangastop-v1.6.48.apk",
-      "sha256": "4776b1d6f299eca1de51f55ee5d02ffac4491acf8d24279478896883e8e27d4a"
+      "name": "tachiyomi-pt.mangastop-v1.6.49.apk",
+      "sha256": "05f976f162d083838eb6e7964ae37b4761b2e04233e5fdc155c0de2327c64788"
     },
     "jar": {
-      "name": "tachiyomi-pt.mangastop-v1.6.48.jar",
-      "sha256": "80e4f855ddcb1e742b9e5d2f49dd9ee5f0b0b261c26df1ab08f9bb283b4d7272"
+      "name": "tachiyomi-pt.mangastop-v1.6.49.jar",
+      "sha256": "0751afaa4d10a5077eded11beddb35f9f766e8336cacad576e879184febccdbb"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangaverde": {
@@ -13451,12 +13451,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.pointzerotoons": {
     "apk": {
-      "name": "tachiyomi-pt.pointzerotoons-v1.6.7.apk",
-      "sha256": "d88ce73c0c965a07d05b4192047de4df862047200980afd3b19a9472baad757d"
+      "name": "tachiyomi-pt.pointzerotoons-v1.6.8.apk",
+      "sha256": "95857862a514a4d1997dc367f407ec9d1b808c2c528bf6899c9755bf6f5212e9"
     },
     "jar": {
-      "name": "tachiyomi-pt.pointzerotoons-v1.6.7.jar",
-      "sha256": "5327c618d49029bd139367822d042f8b7e4db3cede10682505a4679a4b763ba0"
+      "name": "tachiyomi-pt.pointzerotoons-v1.6.8.jar",
+      "sha256": "1401a490c245e3b9a1bcabc9f63d731b7fc4423e9eb9b73c6593dbdc7b6229f1"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.portalyaoi": {
